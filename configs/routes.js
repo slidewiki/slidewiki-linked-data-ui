@@ -9,13 +9,13 @@ import {appFullTitle, appShortTitle, authDatasetURI, baseResourceDomain} from '.
 
 export default {
     home: {
+        //if no id is provided -> will start by defaultDatasetURI in reactor.config
         path: '/',
         method: 'get',
-        handler: require('../components/Home'),
-        label: appShortTitle,
+        handler: require('../components/Datasets'),
+        label: 'Datasets',
         action: (context, payload, done) => {
-            context.dispatch('UPDATE_PAGE_TITLE', { pageTitle: appFullTitle + ' | Home'});
-            done();
+            context.executeAction(loadDatasets, {}, done);
         }
     },
     about: {

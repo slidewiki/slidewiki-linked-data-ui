@@ -54,9 +54,7 @@ class Datasets extends React.Component {
         let annotateDatasetDIV = '';
         let datasetActionsDIV = '';
         let queryImportDIV = '';
-        let info = <div className="ui blue message">
-                        The list contains only the datasets for which at least one <b>config scope</b> is found!
-        </div>;
+        let info = '';
         let dss = this.props.DatasetsStore.datasetsList;
         if(enableAuthentication && !user){
             output = <div className="ui warning message"><div className="header"> Please <a href="/register">Register</a> or <a href="/login">Login</a> to see the datasets.</div></div>;
@@ -83,7 +81,7 @@ class Datasets extends React.Component {
                 </div>;
             }
             datasetActionsDIV = <div className="ui horizontal divided list">
-                {createDatasetDIV} {annotateDatasetDIV} {queryImportDIV}
+                {queryImportDIV}
                 <br/>
             </div>;
             if(!dss.length){
@@ -187,15 +185,7 @@ class Datasets extends React.Component {
                         <div className= "ui bottom attached">
                             {datasetActionsDIV}
                         </div>
-                        {dss.length ?
-                            <div className="ui grey message form">
-                                <select ref="datasetURI" className="ui search dropdown">
-                                    {optionsList}
-                                </select>
-                                <input ref="resourceURI" type="text" className="input" placeholder="Enter the URI of the resource e.g. http://dbpedia.org/resource/VU_University_Amsterdam"/>
-                                <button className="fluid ui primary button" onClick={this.displayResource.bind(this)}>Display resource in the selected dataset</button>
-                            </div>
-                            : ''}
+                        <center><div><img style={{width: '65%'}} className="ui image" src="/assets/img/rdfGraph.png"/></div></center>
                     </div>
                 </div>
             </div>
