@@ -5,6 +5,8 @@
 
 The UI is built on top of LD-R (http://ld-r.org) framework.
 
+* after installation, you need to import `https://github.com/slidewiki/slidewiki-linked-data-ui/blob/master/plugins/dynamicConfiguration/schema/slideWikiConfigs.ttl` to your configuration graph in the triple store.
+
 ## Quick Start
 
 ### Installation
