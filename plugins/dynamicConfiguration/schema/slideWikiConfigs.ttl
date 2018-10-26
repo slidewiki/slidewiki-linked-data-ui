@@ -1,0 +1,922 @@
+<http://ld-r.org/configurations/c1533886043>	<https://github.com/ali1k/ld-reactor/blob/master/vocabulary/index.ttl#objectIViewer>	"BasicHTMLContentView" .
+<http://example.org/1503771498>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<https://github.com/ali1k/ld-reactor/blob/master/vocabulary/index.ttl#ReactorConfig> .
+<http://example.org/1503771498>	<https://github.com/ali1k/ld-reactor/blob/master/vocabulary/index.ttl#label>	"Creator/Affiliation/OrgType" .
+<http://example.org/1503771498>	<https://github.com/ali1k/ld-reactor/blob/master/vocabulary/index.ttl#category>	"Enrichment" .
+<http://ld-r.org/configurations/c1533886043>	<https://github.com/ali1k/ld-reactor/blob/master/vocabulary/index.ttl#property>	<http://rdf.slidewiki.org/vocab/speakernotes> .
+<http://example.org/1503771498>	<http://www.w3.org/2000/01/rdf-schema#label>	"orgType config" .
+<http://ld-r.org/configurations/c1533886043>	<https://github.com/ali1k/ld-reactor/blob/master/vocabulary/index.ttl#createdOn>	"2018-08-10T07:27:23.409Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://ld-r.org/configurations/c1533886043>	<https://github.com/ali1k/ld-reactor/blob/master/vocabulary/index.ttl#scope>	"P" .
+<http://demo.ld-r.org/dataset/http%3A%2F%2Fld-r.org%2Fconfigurations/resource/http%3A%2F%2Fld-r.org%2Fconfigurations%2Fc1533886043>	<http://xmlns.com/foaf/0.1/primaryTopic>	<http://ld-r.org/configurations/c1533886043> .
+<http://ld-r.org/configurations/c1533886043>	<https://github.com/ali1k/ld-reactor/blob/master/vocabulary/index.ttl#cloneOf>	<http://example.org/1503771498> .
+<http://ld-r.org/configurations/c1533886043>	<https://github.com/ali1k/ld-reactor/blob/master/vocabulary/index.ttl#property>	<http://rdf.slidewiki.org/vocab/content> .
+<http://example.org/1503771498>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<https://github.com/ali1k/ld-reactor/blob/master/vocabulary/index.ttl#FacetsPropertyConfig> .
+<http://example.org/1503771498>	<https://github.com/ali1k/ld-reactor/blob/master/vocabulary/index.ttl#hint>	"data for this property is not complete yet!" .
+<http://ld-r.org/configurations/c1533886043>	<http://www.w3.org/2000/01/rdf-schema#label>	"slidewiki content/speakernotes config" .
+<http://ld-r.org/configurations/c1533886043>	<https://github.com/ali1k/ld-reactor/blob/master/vocabulary/index.ttl#property>	<http://slidewiki.oeg-upm.net/ontology/content> .
+<http://ld-r.org/configurations/c1533886043>	<https://github.com/ali1k/ld-reactor/blob/master/vocabulary/index.ttl#decodeURIComponent>	"1" .
+<http://example.org/1503771498>	<https://github.com/ali1k/ld-reactor/blob/master/vocabulary/index.ttl#scope>	"P" .
+<http://ld-r.org/configurations/c1533886043>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<https://github.com/ali1k/ld-reactor/blob/master/vocabulary/index.ttl#ReactorConfig> .
+<http://example.org/1503771498>	<https://github.com/ali1k/ld-reactor/blob/master/vocabulary/index.ttl#property>	"http://purl.org/dc/elements/1.1/creator->http://swrc.ontoware.org/ontology#affiliation->http://swrc.ontoware.org/ontology#moreInfo->http://rdf.risis.eu/orgs/orgType" .
+
+<http://example.org/1540478211>	<https://github.com/ali1k/ld-reactor/blob/master/vocabulary/index.ttl#property>	"http://rdf.slidewiki.org/vocab/hasContibutor->http://www.w3.org/2000/01/rdf-schema#label" .
+<http://ld-r.org/configurations/c1540453886>	<https://github.com/ali1k/ld-reactor/blob/master/vocabulary/index.ttl#config>	<http://example.org/1540478211> .
+<http://example.org/1540471546>	<https://github.com/ali1k/ld-reactor/blob/master/vocabulary/index.ttl#property>	<http://rdf.slidewiki.org/vocab/registeredYear> .
+<http://ld-r.org/configurations/c1540453886>	<https://github.com/ali1k/ld-reactor/blob/master/vocabulary/index.ttl#list>	<http://rdf.slidewiki.org/vocab/timestampDay> .
+<http://ld-r.org/configurations/c1540500467>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<https://github.com/ali1k/ld-reactor/blob/master/vocabulary/index.ttl#FacetsConfig> .
+<http://ld-r.org/configurations/c1540500605>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<https://github.com/ali1k/ld-reactor/blob/master/vocabulary/index.ttl#FacetsPropertyConfig> .
+<http://ld-r.org/configurations/c1540397372>	<https://github.com/ali1k/ld-reactor/blob/master/vocabulary/index.ttl#property>	<http://rdf.slidewiki.org/vocab/lastUpdate> .
+<http://ld-r.org/configurations/c1540397372>	<https://github.com/ali1k/ld-reactor/blob/master/vocabulary/index.ttl#property>	<http://rdf.slidewiki.org/vocab/registered> .
+<http://ld-r.org/configurations/c1540397372>	<https://github.com/ali1k/ld-reactor/blob/master/vocabulary/index.ttl#scope>	"P" .
+<http://ld-r.org/configurations/c1540453886>	<https://github.com/ali1k/ld-reactor/blob/master/vocabulary/index.ttl#config>	<http://example.org/1540471546> .
+<http://ld-r.org/configurations/c1540453886>	<https://github.com/ali1k/ld-reactor/blob/master/vocabulary/index.ttl#list>	<http://rdf.slidewiki.org/vocab/timestamp> .
+<http://ld-r.org/fpc1540392312>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<https://github.com/ali1k/ld-reactor/blob/master/vocabulary/index.ttl#FacetsPropertyConfig> .
+<http://ld-r.org/fpc1540392312>	<http://www.w3.org/2000/01/rdf-schema#label>	"date category" .
+<http://ld-r.org/configurations/c1540397372>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<https://github.com/ali1k/ld-reactor/blob/master/vocabulary/index.ttl#FacetsPropertyConfig> .
+<http://ld-r.org/configurations/c1540453886>	<https://github.com/ali1k/ld-reactor/blob/master/vocabulary/index.ttl#createdOn>	"2018-10-25T07:51:26.115Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://ld-r.org/fpc1540392312>	<https://github.com/ali1k/ld-reactor/blob/master/vocabulary/index.ttl#property>	<http://rdf.slidewiki.org/vocab/registeredYear> .
+<http://ld-r.org/fpc1540392312>	<https://github.com/ali1k/ld-reactor/blob/master/vocabulary/index.ttl#property>	<http://rdf.slidewiki.org/vocab/registeredMonth> .
+<http://ld-r.org/configurations/c1540500467>	<https://github.com/ali1k/ld-reactor/blob/master/vocabulary/index.ttl#config>	<http://ld-r.org/configurations/c1540397372> .
+<http://ld-r.org/configurations/c1540453886>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<https://github.com/ali1k/ld-reactor/blob/master/vocabulary/index.ttl#FacetsConfig> .
+<http://ld-r.org/configurations/c1540397372>	<https://github.com/ali1k/ld-reactor/blob/master/vocabulary/index.ttl#cloneOf>	<http://example.org/1503771498> .
+<http://ld-r.org/configurations/c1540453886>	<https://github.com/ali1k/ld-reactor/blob/master/vocabulary/index.ttl#list>	<http://rdf.slidewiki.org/vocab/hasRevision> .
+<http://ld-r.org/configurations/c1540453886>	<https://github.com/ali1k/ld-reactor/blob/master/vocabulary/index.ttl#list>	<http://rdf.slidewiki.org/vocab/hasContibutor> .
+<http://ld-r.org/fpc1540392312>	<https://github.com/ali1k/ld-reactor/blob/master/vocabulary/index.ttl#property>	<http://rdf.slidewiki.org/vocab/timestamp> .
+<http://example.org/1540471546>	<https://github.com/ali1k/ld-reactor/blob/master/vocabulary/index.ttl#property>	<http://rdf.slidewiki.org/vocab/timestampYear> .
+<http://ld-r.org/configurations/c1540453886>	<https://github.com/ali1k/ld-reactor/blob/master/vocabulary/index.ttl#list>	<http://rdf.slidewiki.org/vocab/timestampDate> .
+<http://ld-r.org/configurations/c1540500605>	<https://github.com/ali1k/ld-reactor/blob/master/vocabulary/index.ttl#pivotDataset>	<http://demo.ld-r.org/d1540392312-slideRevisions> .
+<http://example.org/1540471546>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<https://github.com/ali1k/ld-reactor/blob/master/vocabulary/index.ttl#FacetsPropertyConfig> .
+<http://example.org/1540477754>	<https://github.com/ali1k/ld-reactor/blob/master/vocabulary/index.ttl#pivotDataset>	<http://demo.ld-r.org/d1540392312-users> .
+<http://ld-r.org/configurations/c1540500467>	<https://github.com/ali1k/ld-reactor/blob/master/vocabulary/index.ttl#list>	<http://rdf.slidewiki.org/vocab/lastUpdate> .
+<http://demo.ld-r.org/dataset/http%3A%2F%2Fld-r.org%2Fconfigurations/resource/http%3A%2F%2Fld-r.org%2Fconfigurations%2Fc1540500467>	<http://xmlns.com/foaf/0.1/primaryTopic>	<http://ld-r.org/configurations/c1540500467> .
+<http://ld-r.org/configurations/c1540500467>	<https://github.com/ali1k/ld-reactor/blob/master/vocabulary/index.ttl#list>	<http://rdf.slidewiki.org/vocab/timestampDate> .
+<http://ld-r.org/configurations/c1540500467>	<https://github.com/ali1k/ld-reactor/blob/master/vocabulary/index.ttl#list>	<http://rdf.slidewiki.org/vocab/timestampMonth> .
+<http://ld-r.org/configurations/c1540500605>	<http://www.w3.org/2000/01/rdf-schema#label>	"Slide Revision link config" .
+<http://ld-r.org/configurations/c1540500467>	<https://github.com/ali1k/ld-reactor/blob/master/vocabulary/index.ttl#list>	"http://rdf.slidewiki.org/vocab/hasContibutor->http://www.w3.org/2000/01/rdf-schema#label" .
+<http://ld-r.org/configurations/c1540453886>	<https://github.com/ali1k/ld-reactor/blob/master/vocabulary/index.ttl#config>	<http://ld-r.org/configurations/c1540477842> .
+<http://ld-r.org/configurations/c1540500467>	<https://github.com/ali1k/ld-reactor/blob/master/vocabulary/index.ttl#config>	<http://ld-r.org/fpc1540392312> .
+<http://example.org/1540471546>	<http://www.w3.org/2000/01/rdf-schema#label>	"config for registeredYear" .
+<http://ld-r.org/configurations/c1540477842>	<https://github.com/ali1k/ld-reactor/blob/master/vocabulary/index.ttl#createdOn>	"2018-10-25T14:30:42.465Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://ld-r.org/configurations/c1540500467>	<https://github.com/ali1k/ld-reactor/blob/master/vocabulary/index.ttl#config>	<http://ld-r.org/configurations/c1540477842> .
+<http://ld-r.org/configurations/c1540500467>	<https://github.com/ali1k/ld-reactor/blob/master/vocabulary/index.ttl#config>	<http://ld-r.org/configurations/c1540500605> .
+<http://ld-r.org/configurations/c1540477842>	<http://www.w3.org/2000/01/rdf-schema#label>	"Creator link config" .
+<http://ld-r.org/configurations/c1540453886>	<https://github.com/ali1k/ld-reactor/blob/master/vocabulary/index.ttl#list>	"http://rdf.slidewiki.org/vocab/hasRevision->http://www.w3.org/2000/01/rdf-schema#label" .
+<http://ld-r.org/configurations/c1540453886>	<https://github.com/ali1k/ld-reactor/blob/master/vocabulary/index.ttl#list>	"http://purl.org/net/provenance/ns#createdBy->http://www.w3.org/2000/01/rdf-schema#label" .
+<http://example.org/1540477754>	<https://github.com/ali1k/ld-reactor/blob/master/vocabulary/index.ttl#label>	"User-Contributor" .
+<http://ld-r.org/fpc1540392312>	<https://github.com/ali1k/ld-reactor/blob/master/vocabulary/index.ttl#property>	<http://rdf.slidewiki.org/vocab/timestampDate> .
+<http://example.org/1540478211>	<https://github.com/ali1k/ld-reactor/blob/master/vocabulary/index.ttl#property>	"http://purl.org/net/provenance/ns#createdBy->http://www.w3.org/2000/01/rdf-schema#label" .
+<http://ld-r.org/configurations/c1540477842>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<https://github.com/ali1k/ld-reactor/blob/master/vocabulary/index.ttl#FacetsPropertyConfig> .
+<http://ld-r.org/configurations/c1540500605>	<https://github.com/ali1k/ld-reactor/blob/master/vocabulary/index.ttl#property>	<http://rdf.slidewiki.org/vocab/hasRevision> .
+<http://ld-r.org/fpc1540392312>	<https://github.com/ali1k/ld-reactor/blob/master/vocabulary/index.ttl#property>	<http://rdf.slidewiki.org/vocab/registeredDay> .
+<http://example.org/1540477754>	<https://github.com/ali1k/ld-reactor/blob/master/vocabulary/index.ttl#property>	<http://rdf.slidewiki.org/vocab/hasContibutor> .
+<http://ld-r.org/fpc1540392312>	<https://github.com/ali1k/ld-reactor/blob/master/vocabulary/index.ttl#property>	<http://rdf.slidewiki.org/vocab/timestampYear> .
+<http://ld-r.org/configurations/c1540453886>	<https://github.com/ali1k/ld-reactor/blob/master/vocabulary/index.ttl#list>	<http://rdf.slidewiki.org/vocab/timestampYear> .
+<http://ld-r.org/fpc1540392312>	<https://github.com/ali1k/ld-reactor/blob/master/vocabulary/index.ttl#property>	<http://rdf.slidewiki.org/vocab/timestampDay> .
+<http://ld-r.org/fpc1540392312>	<https://github.com/ali1k/ld-reactor/blob/master/vocabulary/index.ttl#property>	<http://rdf.slidewiki.org/vocab/timestampMonth> .
+<http://ld-r.org/configurations/c1540397372>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<https://github.com/ali1k/ld-reactor/blob/master/vocabulary/index.ttl#ReactorConfig> .
+<http://ld-r.org/configurations/c1540453886>	<https://github.com/ali1k/ld-reactor/blob/master/vocabulary/index.ttl#dataset>	<http://demo.ld-r.org/d1540392312-decks> .
+<http://ld-r.org/configurations/c1540500467>	<https://github.com/ali1k/ld-reactor/blob/master/vocabulary/index.ttl#list>	<http://rdf.slidewiki.org/vocab/timestampYear> .
+<http://ld-r.org/configurations/c1540477842>	<https://github.com/ali1k/ld-reactor/blob/master/vocabulary/index.ttl#pivotDataset>	<http://demo.ld-r.org/d1540392312-users> .
+<http://ld-r.org/configurations/c1540500605>	<https://github.com/ali1k/ld-reactor/blob/master/vocabulary/index.ttl#cloneOf>	<http://ld-r.org/configurations/c1540479488> .
+<http://ld-r.org/configurations/c1540500467>	<https://github.com/ali1k/ld-reactor/blob/master/vocabulary/index.ttl#list>	<http://purl.org/net/provenance/ns#createdBy> .
+<http://ld-r.org/configurations/c1540500467>	<https://github.com/ali1k/ld-reactor/blob/master/vocabulary/index.ttl#cloneOf>	<http://ld-r.org/configurations/c1540453886> .
+<http://ld-r.org/configurations/c1540453886>	<https://github.com/ali1k/ld-reactor/blob/master/vocabulary/index.ttl#config>	<http://example.org/1540477754> .
+<http://ld-r.org/configurations/c1540397372>	<https://github.com/ali1k/ld-reactor/blob/master/vocabulary/index.ttl#createdOn>	"2018-10-24T16:09:31.849Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://ld-r.org/configurations/c1540453886>	<https://github.com/ali1k/ld-reactor/blob/master/vocabulary/index.ttl#list>	<http://rdf.slidewiki.org/vocab/timestampMonth> .
+<http://ld-r.org/configurations/c1540477842>	<https://github.com/ali1k/ld-reactor/blob/master/vocabulary/index.ttl#property>	<http://purl.org/net/provenance/ns#createdBy> .
+<http://example.org/1540478211>	<http://www.w3.org/2000/01/rdf-schema#label>	"creator/contributor config" .
+<http://ld-r.org/fpc1540392312>	<https://github.com/ali1k/ld-reactor/blob/master/vocabulary/index.ttl#property>	<http://rdf.slidewiki.org/vocab/registeredDate> .
+<http://example.org/1540478211>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<https://github.com/ali1k/ld-reactor/blob/master/vocabulary/index.ttl#FacetsPropertyConfig> .
+<http://ld-r.org/configurations/c1540500467>	<https://github.com/ali1k/ld-reactor/blob/master/vocabulary/index.ttl#list>	<http://rdf.slidewiki.org/vocab/license> .
+<http://ld-r.org/configurations/c1540500467>	<https://github.com/ali1k/ld-reactor/blob/master/vocabulary/index.ttl#list>	"http://purl.org/net/provenance/ns#createdBy->http://www.w3.org/2000/01/rdf-schema#label" .
+<http://ld-r.org/configurations/c1540500467>	<https://github.com/ali1k/ld-reactor/blob/master/vocabulary/index.ttl#list>	<http://rdf.slidewiki.org/vocab/timestampDay> .
+<http://ld-r.org/configurations/c1540500467>	<https://github.com/ali1k/ld-reactor/blob/master/vocabulary/index.ttl#config>	<http://example.org/1540478211> .
+<http://ld-r.org/configurations/c1540500467>	<https://github.com/ali1k/ld-reactor/blob/master/vocabulary/index.ttl#list>	<http://rdf.slidewiki.org/vocab/hasRevision> .
+<http://ld-r.org/configurations/c1540453886>	<http://www.w3.org/2000/01/rdf-schema#label>	"SlideWiki complete RDF dump Facets Config ->Decks" .
+<http://ld-r.org/configurations/c1540453886>	<https://github.com/ali1k/ld-reactor/blob/master/vocabulary/index.ttl#list>	<http://rdf.slidewiki.org/vocab/lastUpdate> .
+<http://ld-r.org/configurations/c1540500467>	<https://github.com/ali1k/ld-reactor/blob/master/vocabulary/index.ttl#list>	<http://rdf.slidewiki.org/vocab/hasContibutor> .
+<http://ld-r.org/fpc1540392312>	<https://github.com/ali1k/ld-reactor/blob/master/vocabulary/index.ttl#property>	<http://rdf.slidewiki.org/vocab/registered> .
+<http://example.org/1540478211>	<https://github.com/ali1k/ld-reactor/blob/master/vocabulary/index.ttl#category>	"Creators/Contributors" .
+<http://example.org/1540471546>	<https://github.com/ali1k/ld-reactor/blob/master/vocabulary/index.ttl#objectBrowser>	"BarChartBrowser" .
+<http://ld-r.org/configurations/c1540500467>	<https://github.com/ali1k/ld-reactor/blob/master/vocabulary/index.ttl#list>	<http://rdf.slidewiki.org/vocab/timestamp> .
+<http://ld-r.org/configurations/c1540453886>	<https://github.com/ali1k/ld-reactor/blob/master/vocabulary/index.ttl#list>	<http://rdf.slidewiki.org/vocab/active> .
+<http://ld-r.org/configurations/c1540397372>	<http://www.w3.org/2000/01/rdf-schema#label>	"do not shorten date" .
+<http://ld-r.org/fpc1540392312>	<https://github.com/ali1k/ld-reactor/blob/master/vocabulary/index.ttl#category>	"Date/Time" .
+<http://ld-r.org/configurations/c1540500467>	<https://github.com/ali1k/ld-reactor/blob/master/vocabulary/index.ttl#list>	"http://rdf.slidewiki.org/vocab/hasRevision->http://www.w3.org/2000/01/rdf-schema#label" .
+<http://ld-r.org/configurations/c1540453886>	<https://github.com/ali1k/ld-reactor/blob/master/vocabulary/index.ttl#cloneOf>	<http://ld-r.org/configurations/c1540397188> .
+<http://ld-r.org/configurations/c1540453886>	<https://github.com/ali1k/ld-reactor/blob/master/vocabulary/index.ttl#config>	<http://ld-r.org/fpc1540392312> .
+<http://ld-r.org/configurations/c1540477842>	<https://github.com/ali1k/ld-reactor/blob/master/vocabulary/index.ttl#cloneOf>	<http://example.org/1540477754> .
+<http://ld-r.org/configurations/c1540500467>	<https://github.com/ali1k/ld-reactor/blob/master/vocabulary/index.ttl#config>	<http://example.org/1540471546> .
+<http://ld-r.org/configurations/c1540453886>	<https://github.com/ali1k/ld-reactor/blob/master/vocabulary/index.ttl#list>	"http://rdf.slidewiki.org/vocab/hasContibutor->http://www.w3.org/2000/01/rdf-schema#label" .
+<http://ld-r.org/configurations/c1540453886>	<https://github.com/ali1k/ld-reactor/blob/master/vocabulary/index.ttl#list>	<http://purl.org/net/provenance/ns#createdBy> .
+<http://ld-r.org/configurations/c1540477842>	<https://github.com/ali1k/ld-reactor/blob/master/vocabulary/index.ttl#label>	"User-Creator" .
+<http://ld-r.org/configurations/c1540500605>	<https://github.com/ali1k/ld-reactor/blob/master/vocabulary/index.ttl#createdOn>	"2018-10-25T20:50:05.192Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://ld-r.org/configurations/c1540500467>	<https://github.com/ali1k/ld-reactor/blob/master/vocabulary/index.ttl#createdOn>	"2018-10-25T20:47:46.725Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://ld-r.org/configurations/c1540500605>	<https://github.com/ali1k/ld-reactor/blob/master/vocabulary/index.ttl#label>	"SlideRevision" .
+<http://ld-r.org/configurations/c1540453886>	<https://github.com/ali1k/ld-reactor/blob/master/vocabulary/index.ttl#list>	<http://rdf.slidewiki.org/vocab/hidden> .
+<http://ld-r.org/configurations/c1540453886>	<https://github.com/ali1k/ld-reactor/blob/master/vocabulary/index.ttl#config>	<http://ld-r.org/configurations/c1540397372> .
+<http://ld-r.org/configurations/c1540500467>	<https://github.com/ali1k/ld-reactor/blob/master/vocabulary/index.ttl#config>	<http://example.org/1540477754> .
+<http://ld-r.org/configurations/c1540397372>	<https://github.com/ali1k/ld-reactor/blob/master/vocabulary/index.ttl#shortenURI>	"0" .
+<http://example.org/1540477754>	<http://www.w3.org/2000/01/rdf-schema#label>	"Contributor link config" .
+<http://example.org/1540477754>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<https://github.com/ali1k/ld-reactor/blob/master/vocabulary/index.ttl#FacetsPropertyConfig> .
+<http://ld-r.org/configurations/c1540500467>	<https://github.com/ali1k/ld-reactor/blob/master/vocabulary/index.ttl#dataset>	<http://demo.ld-r.org/d1540392312-slides> .
+<http://ld-r.org/configurations/c1540453886>	<https://github.com/ali1k/ld-reactor/blob/master/vocabulary/index.ttl#config>	<http://ld-r.org/configurations/c1540479488> .
+<http://ld-r.org/configurations/c1540500467>	<http://www.w3.org/2000/01/rdf-schema#label>	"SlideWiki complete RDF dump Facets Config ->Slides" .
+<http://ld-r.org/configurations/c1540397372>	<https://github.com/ali1k/ld-reactor/blob/master/vocabulary/index.ttl#property>	<http://rdf.slidewiki.org/vocab/timestamp> .
+<http://ld-r.org/configurations/c1540453886>	<https://github.com/ali1k/ld-reactor/blob/master/vocabulary/index.ttl#list>	<http://rdf.slidewiki.org/vocab/license> .
+
+<http://ld-r.org/fpc1540392312>	<https://github.com/ali1k/ld-reactor/blob/master/vocabulary/index.ttl#property>	<http://rdf.slidewiki.org/vocab/registeredMonth> .
+<http://ld-r.org/configurations/c1540486127>	<https://github.com/ali1k/ld-reactor/blob/master/vocabulary/index.ttl#createdOn>	"2018-10-25T16:48:47.131Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://ld-r.org/configurations/c1540480103>	<https://github.com/ali1k/ld-reactor/blob/master/vocabulary/index.ttl#category>	"Creators/Members" .
+<http://ld-r.org/fpc1540392312>	<https://github.com/ali1k/ld-reactor/blob/master/vocabulary/index.ttl#property>	<http://rdf.slidewiki.org/vocab/timestampDate> .
+<http://ld-r.org/configurations/c1540479924>	<https://github.com/ali1k/ld-reactor/blob/master/vocabulary/index.ttl#list>	"http://rdf.slidewiki.org/vocab/hasMember->http://www.w3.org/2000/01/rdf-schema#label" .
+<http://ld-r.org/configurations/c1540486127>	<https://github.com/ali1k/ld-reactor/blob/master/vocabulary/index.ttl#cloneOf>	<http://ld-r.org/configurations/c1540479924> .
+<http://ld-r.org/configurations/c1540479924>	<https://github.com/ali1k/ld-reactor/blob/master/vocabulary/index.ttl#list>	<http://rdf.slidewiki.org/vocab/description> .
+<http://ld-r.org/configurations/c1540486127>	<https://github.com/ali1k/ld-reactor/blob/master/vocabulary/index.ttl#config>	<http://ld-r.org/configurations/c1540480103> .
+<http://ld-r.org/configurations/c1540477842>	<https://github.com/ali1k/ld-reactor/blob/master/vocabulary/index.ttl#label>	"User-Creator" .
+<http://ld-r.org/configurations/c1540397372>	<https://github.com/ali1k/ld-reactor/blob/master/vocabulary/index.ttl#scope>	"P" .
+<http://ld-r.org/fpc1540392312>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<https://github.com/ali1k/ld-reactor/blob/master/vocabulary/index.ttl#FacetsPropertyConfig> .
+<http://ld-r.org/configurations/c1540397372>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<https://github.com/ali1k/ld-reactor/blob/master/vocabulary/index.ttl#ReactorConfig> .
+<http://ld-r.org/configurations/c1540480103>	<https://github.com/ali1k/ld-reactor/blob/master/vocabulary/index.ttl#property>	"http://rdf.slidewiki.org/vocab/hasMember->http://www.w3.org/2000/01/rdf-schema#label" .
+<http://ld-r.org/configurations/c1540397372>	<https://github.com/ali1k/ld-reactor/blob/master/vocabulary/index.ttl#property>	<http://rdf.slidewiki.org/vocab/timestamp> .
+<http://ld-r.org/configurations/c1540479924>	<https://github.com/ali1k/ld-reactor/blob/master/vocabulary/index.ttl#list>	<http://rdf.slidewiki.org/vocab/hasMember> .
+<http://ld-r.org/configurations/c1540479924>	<https://github.com/ali1k/ld-reactor/blob/master/vocabulary/index.ttl#config>	<http://ld-r.org/configurations/c1540480103> .
+<http://ld-r.org/configurations/c1540486127>	<https://github.com/ali1k/ld-reactor/blob/master/vocabulary/index.ttl#config>	<http://ld-r.org/configurations/c1540397372> .
+<http://example.org/1540471546>	<https://github.com/ali1k/ld-reactor/blob/master/vocabulary/index.ttl#property>	<http://rdf.slidewiki.org/vocab/registeredYear> .
+<http://ld-r.org/configurations/c1540477842>	<https://github.com/ali1k/ld-reactor/blob/master/vocabulary/index.ttl#pivotDataset>	<http://demo.ld-r.org/d1540392312-users> .
+<http://ld-r.org/configurations/c1540477842>	<https://github.com/ali1k/ld-reactor/blob/master/vocabulary/index.ttl#createdOn>	"2018-10-25T14:30:42.465Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://ld-r.org/configurations/c1540486127>	<https://github.com/ali1k/ld-reactor/blob/master/vocabulary/index.ttl#list>	<http://rdf.slidewiki.org/vocab/timestampYear> .
+<http://example.org/1540471546>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<https://github.com/ali1k/ld-reactor/blob/master/vocabulary/index.ttl#FacetsPropertyConfig> .
+<http://ld-r.org/configurations/c1540479924>	<https://github.com/ali1k/ld-reactor/blob/master/vocabulary/index.ttl#list>	<http://purl.org/net/provenance/ns#createdBy> .
+<http://ld-r.org/configurations/c1540477842>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<https://github.com/ali1k/ld-reactor/blob/master/vocabulary/index.ttl#FacetsPropertyConfig> .
+<http://ld-r.org/configurations/c1540486127>	<https://github.com/ali1k/ld-reactor/blob/master/vocabulary/index.ttl#config>	<http://ld-r.org/fpc1540392312> .
+<http://ld-r.org/fpc1540392312>	<https://github.com/ali1k/ld-reactor/blob/master/vocabulary/index.ttl#property>	<http://rdf.slidewiki.org/vocab/timestampMonth> .
+<http://ld-r.org/configurations/c1540479924>	<https://github.com/ali1k/ld-reactor/blob/master/vocabulary/index.ttl#createdOn>	"2018-10-25T15:05:24.020Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://ld-r.org/fpc1540392312>	<http://www.w3.org/2000/01/rdf-schema#label>	"date category" .
+<http://ld-r.org/configurations/c1540397372>	<https://github.com/ali1k/ld-reactor/blob/master/vocabulary/index.ttl#shortenURI>	"0" .
+<http://example.org/1540471546>	<https://github.com/ali1k/ld-reactor/blob/master/vocabulary/index.ttl#objectBrowser>	"BarChartBrowser" .
+<http://ld-r.org/configurations/c1540397372>	<https://github.com/ali1k/ld-reactor/blob/master/vocabulary/index.ttl#createdOn>	"2018-10-24T16:09:31.849Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://example.org/1540471546>	<https://github.com/ali1k/ld-reactor/blob/master/vocabulary/index.ttl#property>	<http://rdf.slidewiki.org/vocab/timestampYear> .
+<http://ld-r.org/fpc1540392312>	<https://github.com/ali1k/ld-reactor/blob/master/vocabulary/index.ttl#property>	<http://rdf.slidewiki.org/vocab/timestamp> .
+<http://ld-r.org/configurations/c1540479924>	<https://github.com/ali1k/ld-reactor/blob/master/vocabulary/index.ttl#list>	<http://rdf.slidewiki.org/vocab/timestamp> .
+<http://ld-r.org/configurations/c1540479924>	<https://github.com/ali1k/ld-reactor/blob/master/vocabulary/index.ttl#dataset>	<http://demo.ld-r.org/d1540392312-usergroups> .
+<http://ld-r.org/configurations/c1540486127>	<https://github.com/ali1k/ld-reactor/blob/master/vocabulary/index.ttl#list>	<http://rdf.slidewiki.org/vocab/timestampMonth> .
+<http://ld-r.org/configurations/c1540480103>	<https://github.com/ali1k/ld-reactor/blob/master/vocabulary/index.ttl#property>	"http://purl.org/net/provenance/ns#createdBy->http://www.w3.org/2000/01/rdf-schema#label" .
+<http://ld-r.org/configurations/c1540479924>	<https://github.com/ali1k/ld-reactor/blob/master/vocabulary/index.ttl#config>	<http://ld-r.org/fpc1540392312> .
+<http://ld-r.org/fpc1540392312>	<https://github.com/ali1k/ld-reactor/blob/master/vocabulary/index.ttl#property>	<http://rdf.slidewiki.org/vocab/timestampDay> .
+<http://ld-r.org/configurations/c1540486127>	<https://github.com/ali1k/ld-reactor/blob/master/vocabulary/index.ttl#config>	<http://ld-r.org/configurations/c1540477842> .
+<http://ld-r.org/configurations/c1540479924>	<https://github.com/ali1k/ld-reactor/blob/master/vocabulary/index.ttl#list>	<http://rdf.slidewiki.org/vocab/isActive> .
+<http://ld-r.org/configurations/c1540477842>	<https://github.com/ali1k/ld-reactor/blob/master/vocabulary/index.ttl#cloneOf>	<http://example.org/1540477754> .
+<http://ld-r.org/configurations/c1540486127>	<https://github.com/ali1k/ld-reactor/blob/master/vocabulary/index.ttl#dataset>	<http://demo.ld-r.org/d1540392312-tags> .
+<http://ld-r.org/configurations/c1540486127>	<https://github.com/ali1k/ld-reactor/blob/master/vocabulary/index.ttl#config>	<http://example.org/1540471546> .
+<http://ld-r.org/fpc1540392312>	<https://github.com/ali1k/ld-reactor/blob/master/vocabulary/index.ttl#property>	<http://rdf.slidewiki.org/vocab/registeredDay> .
+<http://ld-r.org/fpc1540392312>	<https://github.com/ali1k/ld-reactor/blob/master/vocabulary/index.ttl#property>	<http://rdf.slidewiki.org/vocab/registeredDate> .
+<http://ld-r.org/configurations/c1540397372>	<https://github.com/ali1k/ld-reactor/blob/master/vocabulary/index.ttl#property>	<http://rdf.slidewiki.org/vocab/lastUpdate> .
+<http://ld-r.org/configurations/c1540397372>	<https://github.com/ali1k/ld-reactor/blob/master/vocabulary/index.ttl#property>	<http://rdf.slidewiki.org/vocab/registered> .
+<http://ld-r.org/fpc1540392312>	<https://github.com/ali1k/ld-reactor/blob/master/vocabulary/index.ttl#category>	"Date/Time" .
+<http://ld-r.org/configurations/c1540397372>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<https://github.com/ali1k/ld-reactor/blob/master/vocabulary/index.ttl#FacetsPropertyConfig> .
+<http://ld-r.org/configurations/c1540479924>	<https://github.com/ali1k/ld-reactor/blob/master/vocabulary/index.ttl#cloneOf>	<http://ld-r.org/configurations/c1540397188> .
+<http://example.org/1540471546>	<http://www.w3.org/2000/01/rdf-schema#label>	"config for registeredYear" .
+<http://ld-r.org/configurations/c1540397372>	<http://www.w3.org/2000/01/rdf-schema#label>	"do not shorten date" .
+<http://ld-r.org/configurations/c1540480103>	<https://github.com/ali1k/ld-reactor/blob/master/vocabulary/index.ttl#createdOn>	"2018-10-25T15:08:23.368Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://ld-r.org/configurations/c1540486127>	<http://www.w3.org/2000/01/rdf-schema#label>	"SlideWiki complete RDF dump Facets Config ->Tags" .
+<http://ld-r.org/configurations/c1540477842>	<https://github.com/ali1k/ld-reactor/blob/master/vocabulary/index.ttl#property>	<http://purl.org/net/provenance/ns#createdBy> .
+<http://demo.ld-r.org/dataset/http%3A%2F%2Fld-r.org%2Fconfigurations/resource/http%3A%2F%2Fld-r.org%2Fconfigurations%2Fc1540486127>	<http://xmlns.com/foaf/0.1/primaryTopic>	<http://ld-r.org/configurations/c1540486127> .
+<http://ld-r.org/configurations/c1540486127>	<https://github.com/ali1k/ld-reactor/blob/master/vocabulary/index.ttl#list>	<http://purl.org/net/provenance/ns#createdBy> .
+<http://ld-r.org/configurations/c1540486127>	<https://github.com/ali1k/ld-reactor/blob/master/vocabulary/index.ttl#list>	<http://rdf.slidewiki.org/vocab/timestampDay> .
+<http://ld-r.org/configurations/c1540479924>	<https://github.com/ali1k/ld-reactor/blob/master/vocabulary/index.ttl#config>	<http://ld-r.org/configurations/c1540477842> .
+<http://ld-r.org/configurations/c1540480103>	<http://www.w3.org/2000/01/rdf-schema#label>	"creator/members config" .
+<http://ld-r.org/fpc1540392312>	<https://github.com/ali1k/ld-reactor/blob/master/vocabulary/index.ttl#property>	<http://rdf.slidewiki.org/vocab/registered> .
+<http://ld-r.org/configurations/c1540486127>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<https://github.com/ali1k/ld-reactor/blob/master/vocabulary/index.ttl#FacetsConfig> .
+<http://ld-r.org/configurations/c1540479924>	<https://github.com/ali1k/ld-reactor/blob/master/vocabulary/index.ttl#config>	<http://ld-r.org/configurations/c1540397372> .
+<http://ld-r.org/configurations/c1540479924>	<https://github.com/ali1k/ld-reactor/blob/master/vocabulary/index.ttl#list>	"http://purl.org/net/provenance/ns#createdBy->http://www.w3.org/2000/01/rdf-schema#label" .
+<http://ld-r.org/configurations/c1540397372>	<https://github.com/ali1k/ld-reactor/blob/master/vocabulary/index.ttl#cloneOf>	<http://example.org/1503771498> .
+<http://ld-r.org/configurations/c1540479924>	<http://www.w3.org/2000/01/rdf-schema#label>	"SlideWiki complete RDF dump Facets Config ->User Groups" .
+<http://ld-r.org/configurations/c1540486127>	<https://github.com/ali1k/ld-reactor/blob/master/vocabulary/index.ttl#list>	<http://rdf.slidewiki.org/vocab/timestamp> .
+<http://ld-r.org/configurations/c1540480103>	<https://github.com/ali1k/ld-reactor/blob/master/vocabulary/index.ttl#cloneOf>	<http://example.org/1540478211> .
+<http://ld-r.org/configurations/c1540486127>	<https://github.com/ali1k/ld-reactor/blob/master/vocabulary/index.ttl#list>	"http://purl.org/net/provenance/ns#createdBy->http://www.w3.org/2000/01/rdf-schema#label" .
+<http://ld-r.org/configurations/c1540479924>	<https://github.com/ali1k/ld-reactor/blob/master/vocabulary/index.ttl#config>	<http://ld-r.org/configurations/c1540480234> .
+<http://ld-r.org/configurations/c1540477842>	<http://www.w3.org/2000/01/rdf-schema#label>	"Creator link config" .
+<http://ld-r.org/configurations/c1540479924>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<https://github.com/ali1k/ld-reactor/blob/master/vocabulary/index.ttl#FacetsConfig> .
+<http://ld-r.org/fpc1540392312>	<https://github.com/ali1k/ld-reactor/blob/master/vocabulary/index.ttl#property>	<http://rdf.slidewiki.org/vocab/timestampYear> .
+<http://ld-r.org/configurations/c1540480103>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<https://github.com/ali1k/ld-reactor/blob/master/vocabulary/index.ttl#FacetsPropertyConfig> .
+<http://ld-r.org/fpc1540392312>	<https://github.com/ali1k/ld-reactor/blob/master/vocabulary/index.ttl#property>	<http://rdf.slidewiki.org/vocab/registeredYear> .
+<http://ld-r.org/configurations/c1540486127>	<https://github.com/ali1k/ld-reactor/blob/master/vocabulary/index.ttl#list>	<http://rdf.slidewiki.org/vocab/timestampDate> .
+
+<http://ld-r.org/configurations/c1540486127>	<https://github.com/ali1k/ld-reactor/blob/master/vocabulary/index.ttl#createdOn>	"2018-10-25T16:48:47.131Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://ld-r.org/configurations/c1540480103>	<https://github.com/ali1k/ld-reactor/blob/master/vocabulary/index.ttl#category>	"Creators/Members" .
+<http://ld-r.org/configurations/c1540499392>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<https://github.com/ali1k/ld-reactor/blob/master/vocabulary/index.ttl#FacetsPropertyConfig> .
+<http://ld-r.org/configurations/c1540486127>	<https://github.com/ali1k/ld-reactor/blob/master/vocabulary/index.ttl#cloneOf>	<http://ld-r.org/configurations/c1540479924> .
+<http://ld-r.org/configurations/c1540498828>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<https://github.com/ali1k/ld-reactor/blob/master/vocabulary/index.ttl#FacetsConfig> .
+<http://ld-r.org/configurations/c1540486127>	<https://github.com/ali1k/ld-reactor/blob/master/vocabulary/index.ttl#config>	<http://ld-r.org/configurations/c1540480103> .
+<http://ld-r.org/configurations/c1540477842>	<https://github.com/ali1k/ld-reactor/blob/master/vocabulary/index.ttl#label>	"User-Creator" .
+<http://ld-r.org/configurations/c1540498828>	<https://github.com/ali1k/ld-reactor/blob/master/vocabulary/index.ttl#config>	<http://ld-r.org/configurations/c1540480103> .
+<http://ld-r.org/configurations/c1540498828>	<https://github.com/ali1k/ld-reactor/blob/master/vocabulary/index.ttl#list>	<http://rdf.slidewiki.org/vocab/difficulty> .
+<http://ld-r.org/configurations/c1540499392>	<https://github.com/ali1k/ld-reactor/blob/master/vocabulary/index.ttl#label>	"Deck-Related" .
+<http://ld-r.org/configurations/c1540498828>	<https://github.com/ali1k/ld-reactor/blob/master/vocabulary/index.ttl#createdOn>	"2018-10-25T20:20:27.972Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://ld-r.org/configurations/c1540498828>	<https://github.com/ali1k/ld-reactor/blob/master/vocabulary/index.ttl#dataset>	<http://demo.ld-r.org/d1540392312-questions> .
+<http://ld-r.org/configurations/c1540499392>	<https://github.com/ali1k/ld-reactor/blob/master/vocabulary/index.ttl#property>	<http://rdf.slidewiki.org/vocab/relatedDeck> .
+<http://ld-r.org/configurations/c1540480103>	<https://github.com/ali1k/ld-reactor/blob/master/vocabulary/index.ttl#property>	"http://rdf.slidewiki.org/vocab/hasMember->http://www.w3.org/2000/01/rdf-schema#label" .
+<http://ld-r.org/configurations/c1540498828>	<https://github.com/ali1k/ld-reactor/blob/master/vocabulary/index.ttl#list>	<http://rdf.slidewiki.org/vocab/related_object> .
+<http://ld-r.org/configurations/c1540486127>	<https://github.com/ali1k/ld-reactor/blob/master/vocabulary/index.ttl#config>	<http://ld-r.org/configurations/c1540397372> .
+<http://ld-r.org/configurations/c1540477842>	<https://github.com/ali1k/ld-reactor/blob/master/vocabulary/index.ttl#createdOn>	"2018-10-25T14:30:42.465Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://ld-r.org/configurations/c1540477842>	<https://github.com/ali1k/ld-reactor/blob/master/vocabulary/index.ttl#pivotDataset>	<http://demo.ld-r.org/d1540392312-users> .
+<http://ld-r.org/configurations/c1540499392>	<https://github.com/ali1k/ld-reactor/blob/master/vocabulary/index.ttl#createdOn>	"2018-10-25T20:29:52.236Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://ld-r.org/configurations/c1540486127>	<https://github.com/ali1k/ld-reactor/blob/master/vocabulary/index.ttl#list>	<http://rdf.slidewiki.org/vocab/timestampYear> .
+<http://ld-r.org/configurations/c1540477842>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<https://github.com/ali1k/ld-reactor/blob/master/vocabulary/index.ttl#FacetsPropertyConfig> .
+<http://example.org/1540499322>	<https://github.com/ali1k/ld-reactor/blob/master/vocabulary/index.ttl#property>	<http://rdf.slidewiki.org/vocab/relatedSlide> .
+<http://ld-r.org/configurations/c1540486127>	<https://github.com/ali1k/ld-reactor/blob/master/vocabulary/index.ttl#config>	<http://ld-r.org/fpc1540392312> .
+<http://example.org/1540499322>	<https://github.com/ali1k/ld-reactor/blob/master/vocabulary/index.ttl#pivotDataset>	<http://demo.ld-r.org/d1540392312-slides> .
+<http://demo.ld-r.org/dataset/http%3A%2F%2Fld-r.org%2Fconfigurations/resource/http%3A%2F%2Fld-r.org%2Fconfigurations%2Fc1540498828>	<http://xmlns.com/foaf/0.1/primaryTopic>	<http://ld-r.org/configurations/c1540498828> .
+<http://ld-r.org/configurations/c1540486127>	<https://github.com/ali1k/ld-reactor/blob/master/vocabulary/index.ttl#list>	<http://rdf.slidewiki.org/vocab/timestampMonth> .
+<http://ld-r.org/configurations/c1540480103>	<https://github.com/ali1k/ld-reactor/blob/master/vocabulary/index.ttl#property>	"http://purl.org/net/provenance/ns#createdBy->http://www.w3.org/2000/01/rdf-schema#label" .
+<http://ld-r.org/configurations/c1540498828>	<https://github.com/ali1k/ld-reactor/blob/master/vocabulary/index.ttl#list>	<http://purl.org/net/provenance/ns#createdBy> .
+<http://ld-r.org/configurations/c1540498828>	<http://www.w3.org/2000/01/rdf-schema#label>	"SlideWiki complete RDF dump Facets Config ->Questions" .
+<http://ld-r.org/configurations/c1540486127>	<https://github.com/ali1k/ld-reactor/blob/master/vocabulary/index.ttl#config>	<http://ld-r.org/configurations/c1540477842> .
+<http://ld-r.org/configurations/c1540477842>	<https://github.com/ali1k/ld-reactor/blob/master/vocabulary/index.ttl#cloneOf>	<http://example.org/1540477754> .
+<http://ld-r.org/configurations/c1540486127>	<https://github.com/ali1k/ld-reactor/blob/master/vocabulary/index.ttl#dataset>	<http://demo.ld-r.org/d1540392312-tags> .
+<http://ld-r.org/configurations/c1540486127>	<https://github.com/ali1k/ld-reactor/blob/master/vocabulary/index.ttl#config>	<http://example.org/1540471546> .
+<http://ld-r.org/configurations/c1540498828>	<https://github.com/ali1k/ld-reactor/blob/master/vocabulary/index.ttl#list>	<http://rdf.slidewiki.org/vocab/relatedSlide> .
+<http://ld-r.org/configurations/c1540498828>	<https://github.com/ali1k/ld-reactor/blob/master/vocabulary/index.ttl#list>	<http://rdf.slidewiki.org/vocab/relatedDeck> .
+<http://ld-r.org/configurations/c1540499392>	<https://github.com/ali1k/ld-reactor/blob/master/vocabulary/index.ttl#pivotDataset>	<http://demo.ld-r.org/d1540392312-decks> .
+<http://example.org/1540499322>	<http://www.w3.org/2000/01/rdf-schema#label>	"related slide config" .
+<http://ld-r.org/configurations/c1540499392>	<https://github.com/ali1k/ld-reactor/blob/master/vocabulary/index.ttl#cloneOf>	<http://example.org/1540499322> .
+<http://ld-r.org/configurations/c1540480103>	<https://github.com/ali1k/ld-reactor/blob/master/vocabulary/index.ttl#createdOn>	"2018-10-25T15:08:23.368Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://ld-r.org/configurations/c1540486127>	<http://www.w3.org/2000/01/rdf-schema#label>	"SlideWiki complete RDF dump Facets Config ->Tags" .
+<http://ld-r.org/configurations/c1540477842>	<https://github.com/ali1k/ld-reactor/blob/master/vocabulary/index.ttl#property>	<http://purl.org/net/provenance/ns#createdBy> .
+<http://ld-r.org/configurations/c1540486127>	<https://github.com/ali1k/ld-reactor/blob/master/vocabulary/index.ttl#list>	<http://purl.org/net/provenance/ns#createdBy> .
+<http://ld-r.org/configurations/c1540486127>	<https://github.com/ali1k/ld-reactor/blob/master/vocabulary/index.ttl#list>	<http://rdf.slidewiki.org/vocab/timestampDay> .
+<http://example.org/1540499322>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<https://github.com/ali1k/ld-reactor/blob/master/vocabulary/index.ttl#FacetsPropertyConfig> .
+<http://example.org/1540499322>	<https://github.com/ali1k/ld-reactor/blob/master/vocabulary/index.ttl#label>	"Slide-Related" .
+<http://ld-r.org/configurations/c1540480103>	<http://www.w3.org/2000/01/rdf-schema#label>	"creator/members config" .
+<http://ld-r.org/configurations/c1540498828>	<https://github.com/ali1k/ld-reactor/blob/master/vocabulary/index.ttl#config>	<http://example.org/1540499322> .
+<http://ld-r.org/configurations/c1540486127>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<https://github.com/ali1k/ld-reactor/blob/master/vocabulary/index.ttl#FacetsConfig> .
+<http://ld-r.org/configurations/c1540498828>	<https://github.com/ali1k/ld-reactor/blob/master/vocabulary/index.ttl#config>	<http://ld-r.org/configurations/c1540499392> .
+<http://ld-r.org/configurations/c1540486127>	<https://github.com/ali1k/ld-reactor/blob/master/vocabulary/index.ttl#list>	<http://rdf.slidewiki.org/vocab/timestamp> .
+<http://ld-r.org/configurations/c1540498828>	<https://github.com/ali1k/ld-reactor/blob/master/vocabulary/index.ttl#config>	<http://ld-r.org/configurations/c1540477842> .
+<http://ld-r.org/configurations/c1540480103>	<https://github.com/ali1k/ld-reactor/blob/master/vocabulary/index.ttl#cloneOf>	<http://example.org/1540478211> .
+<http://ld-r.org/configurations/c1540486127>	<https://github.com/ali1k/ld-reactor/blob/master/vocabulary/index.ttl#list>	"http://purl.org/net/provenance/ns#createdBy->http://www.w3.org/2000/01/rdf-schema#label" .
+<http://ld-r.org/configurations/c1540499392>	<http://www.w3.org/2000/01/rdf-schema#label>	"related deck config" .
+<http://ld-r.org/configurations/c1540477842>	<http://www.w3.org/2000/01/rdf-schema#label>	"Creator link config" .
+<http://ld-r.org/configurations/c1540498828>	<https://github.com/ali1k/ld-reactor/blob/master/vocabulary/index.ttl#cloneOf>	<http://ld-r.org/configurations/c1540486127> .
+<http://ld-r.org/configurations/c1540480103>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<https://github.com/ali1k/ld-reactor/blob/master/vocabulary/index.ttl#FacetsPropertyConfig> .
+<http://ld-r.org/configurations/c1540486127>	<https://github.com/ali1k/ld-reactor/blob/master/vocabulary/index.ttl#list>	<http://rdf.slidewiki.org/vocab/timestampDate> .
+<http://ld-r.org/configurations/c1540498828>	<https://github.com/ali1k/ld-reactor/blob/master/vocabulary/index.ttl#list>	"http://purl.org/net/provenance/ns#createdBy->http://www.w3.org/2000/01/rdf-schema#label" .
+
+<http://ld-r.org/fpc1540392312>	<https://github.com/ali1k/ld-reactor/blob/master/vocabulary/index.ttl#property>	<http://rdf.slidewiki.org/vocab/registeredMonth> .
+<http://ld-r.org/configurations/c1540486127>	<https://github.com/ali1k/ld-reactor/blob/master/vocabulary/index.ttl#createdOn>	"2018-10-25T16:48:47.131Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://ld-r.org/configurations/c1540480103>	<https://github.com/ali1k/ld-reactor/blob/master/vocabulary/index.ttl#category>	"Creators/Members" .
+<http://ld-r.org/fpc1540392312>	<https://github.com/ali1k/ld-reactor/blob/master/vocabulary/index.ttl#property>	<http://rdf.slidewiki.org/vocab/timestampDate> .
+<http://ld-r.org/configurations/c1540479924>	<https://github.com/ali1k/ld-reactor/blob/master/vocabulary/index.ttl#list>	"http://rdf.slidewiki.org/vocab/hasMember->http://www.w3.org/2000/01/rdf-schema#label" .
+<http://ld-r.org/configurations/c1540486127>	<https://github.com/ali1k/ld-reactor/blob/master/vocabulary/index.ttl#cloneOf>	<http://ld-r.org/configurations/c1540479924> .
+<http://ld-r.org/configurations/c1540479924>	<https://github.com/ali1k/ld-reactor/blob/master/vocabulary/index.ttl#list>	<http://rdf.slidewiki.org/vocab/description> .
+<http://ld-r.org/configurations/c1540486127>	<https://github.com/ali1k/ld-reactor/blob/master/vocabulary/index.ttl#config>	<http://ld-r.org/configurations/c1540480103> .
+<http://ld-r.org/configurations/c1540477842>	<https://github.com/ali1k/ld-reactor/blob/master/vocabulary/index.ttl#label>	"User-Creator" .
+<http://ld-r.org/configurations/c1540397372>	<https://github.com/ali1k/ld-reactor/blob/master/vocabulary/index.ttl#scope>	"P" .
+<http://ld-r.org/fpc1540392312>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<https://github.com/ali1k/ld-reactor/blob/master/vocabulary/index.ttl#FacetsPropertyConfig> .
+<http://ld-r.org/configurations/c1540397372>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<https://github.com/ali1k/ld-reactor/blob/master/vocabulary/index.ttl#ReactorConfig> .
+<http://ld-r.org/configurations/c1540480103>	<https://github.com/ali1k/ld-reactor/blob/master/vocabulary/index.ttl#property>	"http://rdf.slidewiki.org/vocab/hasMember->http://www.w3.org/2000/01/rdf-schema#label" .
+<http://ld-r.org/configurations/c1540397372>	<https://github.com/ali1k/ld-reactor/blob/master/vocabulary/index.ttl#property>	<http://rdf.slidewiki.org/vocab/timestamp> .
+<http://ld-r.org/configurations/c1540479924>	<https://github.com/ali1k/ld-reactor/blob/master/vocabulary/index.ttl#list>	<http://rdf.slidewiki.org/vocab/hasMember> .
+<http://ld-r.org/configurations/c1540479924>	<https://github.com/ali1k/ld-reactor/blob/master/vocabulary/index.ttl#config>	<http://ld-r.org/configurations/c1540480103> .
+<http://ld-r.org/configurations/c1540486127>	<https://github.com/ali1k/ld-reactor/blob/master/vocabulary/index.ttl#config>	<http://ld-r.org/configurations/c1540397372> .
+<http://example.org/1540471546>	<https://github.com/ali1k/ld-reactor/blob/master/vocabulary/index.ttl#property>	<http://rdf.slidewiki.org/vocab/registeredYear> .
+<http://ld-r.org/configurations/c1540477842>	<https://github.com/ali1k/ld-reactor/blob/master/vocabulary/index.ttl#pivotDataset>	<http://demo.ld-r.org/d1540392312-users> .
+<http://ld-r.org/configurations/c1540477842>	<https://github.com/ali1k/ld-reactor/blob/master/vocabulary/index.ttl#createdOn>	"2018-10-25T14:30:42.465Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://ld-r.org/configurations/c1540486127>	<https://github.com/ali1k/ld-reactor/blob/master/vocabulary/index.ttl#list>	<http://rdf.slidewiki.org/vocab/timestampYear> .
+<http://example.org/1540471546>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<https://github.com/ali1k/ld-reactor/blob/master/vocabulary/index.ttl#FacetsPropertyConfig> .
+<http://ld-r.org/configurations/c1540479924>	<https://github.com/ali1k/ld-reactor/blob/master/vocabulary/index.ttl#list>	<http://purl.org/net/provenance/ns#createdBy> .
+<http://ld-r.org/configurations/c1540477842>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<https://github.com/ali1k/ld-reactor/blob/master/vocabulary/index.ttl#FacetsPropertyConfig> .
+<http://ld-r.org/configurations/c1540486127>	<https://github.com/ali1k/ld-reactor/blob/master/vocabulary/index.ttl#config>	<http://ld-r.org/fpc1540392312> .
+<http://ld-r.org/fpc1540392312>	<https://github.com/ali1k/ld-reactor/blob/master/vocabulary/index.ttl#property>	<http://rdf.slidewiki.org/vocab/timestampMonth> .
+<http://ld-r.org/configurations/c1540479924>	<https://github.com/ali1k/ld-reactor/blob/master/vocabulary/index.ttl#createdOn>	"2018-10-25T15:05:24.020Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://ld-r.org/fpc1540392312>	<http://www.w3.org/2000/01/rdf-schema#label>	"date category" .
+<http://ld-r.org/configurations/c1540397372>	<https://github.com/ali1k/ld-reactor/blob/master/vocabulary/index.ttl#shortenURI>	"0" .
+<http://example.org/1540471546>	<https://github.com/ali1k/ld-reactor/blob/master/vocabulary/index.ttl#objectBrowser>	"BarChartBrowser" .
+<http://ld-r.org/configurations/c1540397372>	<https://github.com/ali1k/ld-reactor/blob/master/vocabulary/index.ttl#createdOn>	"2018-10-24T16:09:31.849Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://example.org/1540471546>	<https://github.com/ali1k/ld-reactor/blob/master/vocabulary/index.ttl#property>	<http://rdf.slidewiki.org/vocab/timestampYear> .
+<http://ld-r.org/fpc1540392312>	<https://github.com/ali1k/ld-reactor/blob/master/vocabulary/index.ttl#property>	<http://rdf.slidewiki.org/vocab/timestamp> .
+<http://ld-r.org/configurations/c1540479924>	<https://github.com/ali1k/ld-reactor/blob/master/vocabulary/index.ttl#list>	<http://rdf.slidewiki.org/vocab/timestamp> .
+<http://ld-r.org/configurations/c1540479924>	<https://github.com/ali1k/ld-reactor/blob/master/vocabulary/index.ttl#dataset>	<http://demo.ld-r.org/d1540392312-usergroups> .
+<http://ld-r.org/configurations/c1540486127>	<https://github.com/ali1k/ld-reactor/blob/master/vocabulary/index.ttl#list>	<http://rdf.slidewiki.org/vocab/timestampMonth> .
+<http://ld-r.org/configurations/c1540480103>	<https://github.com/ali1k/ld-reactor/blob/master/vocabulary/index.ttl#property>	"http://purl.org/net/provenance/ns#createdBy->http://www.w3.org/2000/01/rdf-schema#label" .
+<http://ld-r.org/configurations/c1540479924>	<https://github.com/ali1k/ld-reactor/blob/master/vocabulary/index.ttl#config>	<http://ld-r.org/fpc1540392312> .
+<http://ld-r.org/fpc1540392312>	<https://github.com/ali1k/ld-reactor/blob/master/vocabulary/index.ttl#property>	<http://rdf.slidewiki.org/vocab/timestampDay> .
+<http://ld-r.org/configurations/c1540486127>	<https://github.com/ali1k/ld-reactor/blob/master/vocabulary/index.ttl#config>	<http://ld-r.org/configurations/c1540477842> .
+<http://ld-r.org/configurations/c1540479924>	<https://github.com/ali1k/ld-reactor/blob/master/vocabulary/index.ttl#list>	<http://rdf.slidewiki.org/vocab/isActive> .
+<http://ld-r.org/configurations/c1540477842>	<https://github.com/ali1k/ld-reactor/blob/master/vocabulary/index.ttl#cloneOf>	<http://example.org/1540477754> .
+<http://ld-r.org/configurations/c1540486127>	<https://github.com/ali1k/ld-reactor/blob/master/vocabulary/index.ttl#dataset>	<http://demo.ld-r.org/d1540392312-tags> .
+<http://ld-r.org/configurations/c1540486127>	<https://github.com/ali1k/ld-reactor/blob/master/vocabulary/index.ttl#config>	<http://example.org/1540471546> .
+<http://ld-r.org/fpc1540392312>	<https://github.com/ali1k/ld-reactor/blob/master/vocabulary/index.ttl#property>	<http://rdf.slidewiki.org/vocab/registeredDay> .
+<http://ld-r.org/fpc1540392312>	<https://github.com/ali1k/ld-reactor/blob/master/vocabulary/index.ttl#property>	<http://rdf.slidewiki.org/vocab/registeredDate> .
+<http://ld-r.org/configurations/c1540397372>	<https://github.com/ali1k/ld-reactor/blob/master/vocabulary/index.ttl#property>	<http://rdf.slidewiki.org/vocab/lastUpdate> .
+<http://ld-r.org/configurations/c1540397372>	<https://github.com/ali1k/ld-reactor/blob/master/vocabulary/index.ttl#property>	<http://rdf.slidewiki.org/vocab/registered> .
+<http://ld-r.org/fpc1540392312>	<https://github.com/ali1k/ld-reactor/blob/master/vocabulary/index.ttl#category>	"Date/Time" .
+<http://ld-r.org/configurations/c1540397372>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<https://github.com/ali1k/ld-reactor/blob/master/vocabulary/index.ttl#FacetsPropertyConfig> .
+<http://ld-r.org/configurations/c1540479924>	<https://github.com/ali1k/ld-reactor/blob/master/vocabulary/index.ttl#cloneOf>	<http://ld-r.org/configurations/c1540397188> .
+<http://example.org/1540471546>	<http://www.w3.org/2000/01/rdf-schema#label>	"config for registeredYear" .
+<http://ld-r.org/configurations/c1540397372>	<http://www.w3.org/2000/01/rdf-schema#label>	"do not shorten date" .
+<http://ld-r.org/configurations/c1540480103>	<https://github.com/ali1k/ld-reactor/blob/master/vocabulary/index.ttl#createdOn>	"2018-10-25T15:08:23.368Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://ld-r.org/configurations/c1540486127>	<http://www.w3.org/2000/01/rdf-schema#label>	"SlideWiki complete RDF dump Facets Config ->Tags" .
+<http://ld-r.org/configurations/c1540477842>	<https://github.com/ali1k/ld-reactor/blob/master/vocabulary/index.ttl#property>	<http://purl.org/net/provenance/ns#createdBy> .
+<http://demo.ld-r.org/dataset/http%3A%2F%2Fld-r.org%2Fconfigurations/resource/http%3A%2F%2Fld-r.org%2Fconfigurations%2Fc1540486127>	<http://xmlns.com/foaf/0.1/primaryTopic>	<http://ld-r.org/configurations/c1540486127> .
+<http://ld-r.org/configurations/c1540486127>	<https://github.com/ali1k/ld-reactor/blob/master/vocabulary/index.ttl#list>	<http://purl.org/net/provenance/ns#createdBy> .
+<http://ld-r.org/configurations/c1540486127>	<https://github.com/ali1k/ld-reactor/blob/master/vocabulary/index.ttl#list>	<http://rdf.slidewiki.org/vocab/timestampDay> .
+<http://ld-r.org/configurations/c1540479924>	<https://github.com/ali1k/ld-reactor/blob/master/vocabulary/index.ttl#config>	<http://ld-r.org/configurations/c1540477842> .
+<http://ld-r.org/configurations/c1540480103>	<http://www.w3.org/2000/01/rdf-schema#label>	"creator/members config" .
+<http://ld-r.org/fpc1540392312>	<https://github.com/ali1k/ld-reactor/blob/master/vocabulary/index.ttl#property>	<http://rdf.slidewiki.org/vocab/registered> .
+<http://ld-r.org/configurations/c1540486127>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<https://github.com/ali1k/ld-reactor/blob/master/vocabulary/index.ttl#FacetsConfig> .
+<http://ld-r.org/configurations/c1540479924>	<https://github.com/ali1k/ld-reactor/blob/master/vocabulary/index.ttl#config>	<http://ld-r.org/configurations/c1540397372> .
+<http://ld-r.org/configurations/c1540479924>	<https://github.com/ali1k/ld-reactor/blob/master/vocabulary/index.ttl#list>	"http://purl.org/net/provenance/ns#createdBy->http://www.w3.org/2000/01/rdf-schema#label" .
+<http://ld-r.org/configurations/c1540397372>	<https://github.com/ali1k/ld-reactor/blob/master/vocabulary/index.ttl#cloneOf>	<http://example.org/1503771498> .
+<http://ld-r.org/configurations/c1540479924>	<http://www.w3.org/2000/01/rdf-schema#label>	"SlideWiki complete RDF dump Facets Config ->User Groups" .
+<http://ld-r.org/configurations/c1540486127>	<https://github.com/ali1k/ld-reactor/blob/master/vocabulary/index.ttl#list>	<http://rdf.slidewiki.org/vocab/timestamp> .
+<http://ld-r.org/configurations/c1540480103>	<https://github.com/ali1k/ld-reactor/blob/master/vocabulary/index.ttl#cloneOf>	<http://example.org/1540478211> .
+<http://ld-r.org/configurations/c1540486127>	<https://github.com/ali1k/ld-reactor/blob/master/vocabulary/index.ttl#list>	"http://purl.org/net/provenance/ns#createdBy->http://www.w3.org/2000/01/rdf-schema#label" .
+<http://ld-r.org/configurations/c1540479924>	<https://github.com/ali1k/ld-reactor/blob/master/vocabulary/index.ttl#config>	<http://ld-r.org/configurations/c1540480234> .
+<http://ld-r.org/configurations/c1540477842>	<http://www.w3.org/2000/01/rdf-schema#label>	"Creator link config" .
+<http://ld-r.org/configurations/c1540479924>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<https://github.com/ali1k/ld-reactor/blob/master/vocabulary/index.ttl#FacetsConfig> .
+<http://ld-r.org/fpc1540392312>	<https://github.com/ali1k/ld-reactor/blob/master/vocabulary/index.ttl#property>	<http://rdf.slidewiki.org/vocab/timestampYear> .
+<http://ld-r.org/configurations/c1540480103>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<https://github.com/ali1k/ld-reactor/blob/master/vocabulary/index.ttl#FacetsPropertyConfig> .
+<http://ld-r.org/fpc1540392312>	<https://github.com/ali1k/ld-reactor/blob/master/vocabulary/index.ttl#property>	<http://rdf.slidewiki.org/vocab/registeredYear> .
+<http://ld-r.org/configurations/c1540486127>	<https://github.com/ali1k/ld-reactor/blob/master/vocabulary/index.ttl#list>	<http://rdf.slidewiki.org/vocab/timestampDate> .
+
+<http://ld-r.org/configurations/c1540396832>	<https://github.com/ali1k/ld-reactor/blob/master/vocabulary/index.ttl#createdBy>	<http://demo.ld-r.org/user/1503847792t> .
+<http://ld-r.org/configurations/c1540396832>	<https://github.com/ali1k/ld-reactor/blob/master/vocabulary/index.ttl#maxNumberOfResourcesOnPage>	"20" .
+<http://ld-r.org/configurations/c1540479818>	<http://www.w3.org/2000/01/rdf-schema#label>	"SlideWiki complete RDF dump Reactor Config -> User Groups" .
+<http://ld-r.org/configurations/c1540396832>	<https://github.com/ali1k/ld-reactor/blob/master/vocabulary/index.ttl#cloneOf>	<http://ld-r.org/configurations/rcf1540392313> .
+<http://demo.ld-r.org/dataset/http%3A%2F%2Fld-r.org%2Fconfigurations/resource/http%3A%2F%2Fld-r.org%2Fconfigurations%2Fc1540479818>	<http://xmlns.com/foaf/0.1/primaryTopic>	<http://ld-r.org/configurations/c1540479818> .
+<http://ld-r.org/configurations/c1540479818>	<https://github.com/ali1k/ld-reactor/blob/master/vocabulary/index.ttl#scope>	"D" .
+<http://ld-r.org/configurations/c1540396832>	<https://github.com/ali1k/ld-reactor/blob/master/vocabulary/index.ttl#resourceFocusType>	<http://rdf.slidewiki.org/vocab/User> .
+<http://ld-r.org/configurations/c1540479818>	<https://github.com/ali1k/ld-reactor/blob/master/vocabulary/index.ttl#dataset>	<http://demo.ld-r.org/d1540392312-usergroups> .
+<http://ld-r.org/configurations/c1540396832>	<https://github.com/ali1k/ld-reactor/blob/master/vocabulary/index.ttl#createdOn>	"2018-10-24T16:00:32.271Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://ld-r.org/configurations/c1540396832>	<http://www.w3.org/2000/01/rdf-schema#label>	"SlideWiki complete RDF dump Reactor Config -> Users" .
+<http://ld-r.org/configurations/c1540396832>	<https://github.com/ali1k/ld-reactor/blob/master/vocabulary/index.ttl#resourceImageProperty>	<http://rdf.slidewiki.org/vocab/picture> .
+<http://ld-r.org/configurations/c1540479818>	<https://github.com/ali1k/ld-reactor/blob/master/vocabulary/index.ttl#maxNumberOfResourcesOnPage>	"20" .
+<http://ld-r.org/configurations/c1540479818>	<https://github.com/ali1k/ld-reactor/blob/master/vocabulary/index.ttl#resourceFocusType>	<http://rdf.slidewiki.org/vocab/UserGroup> .
+<http://ld-r.org/configurations/c1540479818>	<https://github.com/ali1k/ld-reactor/blob/master/vocabulary/index.ttl#datasetLabel>	"SlideWiki complete RDF dump (25-10-2018) -> User Groups" .
+<http://ld-r.org/configurations/c1540479818>	<https://github.com/ali1k/ld-reactor/blob/master/vocabulary/index.ttl#cloneOf>	<http://ld-r.org/configurations/c1540396832> .
+<http://ld-r.org/configurations/c1540396832>	<https://github.com/ali1k/ld-reactor/blob/master/vocabulary/index.ttl#dataset>	<http://demo.ld-r.org/d1540392312-users> .
+<http://ld-r.org/configurations/c1540479818>	<https://github.com/ali1k/ld-reactor/blob/master/vocabulary/index.ttl#createdOn>	"2018-10-25T15:03:37.559Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://ld-r.org/configurations/c1540396832>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<https://github.com/ali1k/ld-reactor/blob/master/vocabulary/index.ttl#ReactorConfig> .
+<http://ld-r.org/configurations/c1540396832>	<https://github.com/ali1k/ld-reactor/blob/master/vocabulary/index.ttl#datasetLabel>	"SlideWiki complete RDF dump (25-10-2018) -> Users" .
+<http://ld-r.org/configurations/c1540396832>	<https://github.com/ali1k/ld-reactor/blob/master/vocabulary/index.ttl#scope>	"D" .
+<http://ld-r.org/configurations/c1540479818>	<https://github.com/ali1k/ld-reactor/blob/master/vocabulary/index.ttl#resourceLabelProperty>	<http://rdf.slidewiki.org/vocab/name> .
+<http://ld-r.org/configurations/c1540479818>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<https://github.com/ali1k/ld-reactor/blob/master/vocabulary/index.ttl#ReactorConfig> .
+
+<http://example.org/1540478211>	<https://github.com/ali1k/ld-reactor/blob/master/vocabulary/index.ttl#property>	"http://rdf.slidewiki.org/vocab/hasContibutor->http://www.w3.org/2000/01/rdf-schema#label" .
+<http://example.org/1540471546>	<https://github.com/ali1k/ld-reactor/blob/master/vocabulary/index.ttl#property>	<http://rdf.slidewiki.org/vocab/registeredYear> .
+<http://ld-r.org/configurations/c1540500948>	<https://github.com/ali1k/ld-reactor/blob/master/vocabulary/index.ttl#list>	<http://rdf.slidewiki.org/vocab/timestampMonth> .
+<http://ld-r.org/configurations/c1540478581>	<https://github.com/ali1k/ld-reactor/blob/master/vocabulary/index.ttl#list>	<http://rdf.slidewiki.org/vocab/timestampDate> .
+<http://ld-r.org/configurations/c1540500948>	<https://github.com/ali1k/ld-reactor/blob/master/vocabulary/index.ttl#config>	<http://ld-r.org/configurations/c1540501026> .
+<http://ld-r.org/configurations/c1540500948>	<https://github.com/ali1k/ld-reactor/blob/master/vocabulary/index.ttl#list>	<http://rdf.slidewiki.org/vocab/isRevisedFrom> .
+<http://ld-r.org/configurations/c1540478581>	<https://github.com/ali1k/ld-reactor/blob/master/vocabulary/index.ttl#config>	<http://example.org/1540542206> .
+<http://ld-r.org/configurations/c1540397372>	<https://github.com/ali1k/ld-reactor/blob/master/vocabulary/index.ttl#property>	<http://rdf.slidewiki.org/vocab/lastUpdate> .
+<http://ld-r.org/configurations/c1540397372>	<https://github.com/ali1k/ld-reactor/blob/master/vocabulary/index.ttl#property>	<http://rdf.slidewiki.org/vocab/registered> .
+<http://ld-r.org/configurations/c1540501026>	<https://github.com/ali1k/ld-reactor/blob/master/vocabulary/index.ttl#property>	<http://rdf.slidewiki.org/vocab/isRevisedFrom> .
+<http://ld-r.org/configurations/c1540500948>	<https://github.com/ali1k/ld-reactor/blob/master/vocabulary/index.ttl#list>	<http://rdf.slidewiki.org/vocab/timestampDay> .
+<http://ld-r.org/configurations/c1540397372>	<https://github.com/ali1k/ld-reactor/blob/master/vocabulary/index.ttl#scope>	"P" .
+<http://ld-r.org/configurations/c1540500948>	<https://github.com/ali1k/ld-reactor/blob/master/vocabulary/index.ttl#list>	<http://rdf.slidewiki.org/vocab/timestampYear> .
+<http://ld-r.org/fpc1540392312>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<https://github.com/ali1k/ld-reactor/blob/master/vocabulary/index.ttl#FacetsPropertyConfig> .
+<http://ld-r.org/fpc1540392312>	<http://www.w3.org/2000/01/rdf-schema#label>	"date category" .
+<http://ld-r.org/configurations/c1540397372>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<https://github.com/ali1k/ld-reactor/blob/master/vocabulary/index.ttl#FacetsPropertyConfig> .
+<http://ld-r.org/configurations/c1540500948>	<https://github.com/ali1k/ld-reactor/blob/master/vocabulary/index.ttl#config>	<http://example.org/1540478211> .
+<http://ld-r.org/configurations/c1540478581>	<https://github.com/ali1k/ld-reactor/blob/master/vocabulary/index.ttl#list>	<http://purl.org/net/provenance/ns#createdBy> .
+<http://ld-r.org/fpc1540392312>	<https://github.com/ali1k/ld-reactor/blob/master/vocabulary/index.ttl#property>	<http://rdf.slidewiki.org/vocab/registeredYear> .
+<http://ld-r.org/fpc1540392312>	<https://github.com/ali1k/ld-reactor/blob/master/vocabulary/index.ttl#property>	<http://rdf.slidewiki.org/vocab/registeredMonth> .
+<http://ld-r.org/configurations/c1540500948>	<http://www.w3.org/2000/01/rdf-schema#label>	"SlideWiki complete RDF dump Facets Config ->SlideRevisions" .
+<http://ld-r.org/configurations/c1540500948>	<https://github.com/ali1k/ld-reactor/blob/master/vocabulary/index.ttl#config>	<http://example.org/1540477754> .
+<http://ld-r.org/configurations/c1540397372>	<https://github.com/ali1k/ld-reactor/blob/master/vocabulary/index.ttl#cloneOf>	<http://example.org/1503771498> .
+<http://ld-r.org/configurations/c1540478581>	<https://github.com/ali1k/ld-reactor/blob/master/vocabulary/index.ttl#list>	"http://purl.org/net/provenance/ns#createdBy->http://www.w3.org/2000/01/rdf-schema#label" .
+<http://ld-r.org/configurations/c1540500948>	<https://github.com/ali1k/ld-reactor/blob/master/vocabulary/index.ttl#dataset>	<http://demo.ld-r.org/d1540392312-slideRevisions> .
+<http://ld-r.org/configurations/c1540500948>	<https://github.com/ali1k/ld-reactor/blob/master/vocabulary/index.ttl#config>	<http://ld-r.org/configurations/c1540477842> .
+<http://ld-r.org/configurations/c1540478581>	<https://github.com/ali1k/ld-reactor/blob/master/vocabulary/index.ttl#list>	<http://rdf.slidewiki.org/vocab/language> .
+<http://ld-r.org/configurations/c1540478581>	<https://github.com/ali1k/ld-reactor/blob/master/vocabulary/index.ttl#list>	<http://rdf.slidewiki.org/vocab/timestampDay> .
+<http://ld-r.org/fpc1540392312>	<https://github.com/ali1k/ld-reactor/blob/master/vocabulary/index.ttl#property>	<http://rdf.slidewiki.org/vocab/timestamp> .
+<http://ld-r.org/configurations/c1540501026>	<https://github.com/ali1k/ld-reactor/blob/master/vocabulary/index.ttl#pivotDataset>	<http://demo.ld-r.org/d1540392312-slides> .
+<http://ld-r.org/configurations/c1540478581>	<https://github.com/ali1k/ld-reactor/blob/master/vocabulary/index.ttl#list>	"http://rdf.slidewiki.org/vocab/hasTag->http://www.w3.org/2000/01/rdf-schema#label" .
+<http://example.org/1540471546>	<https://github.com/ali1k/ld-reactor/blob/master/vocabulary/index.ttl#property>	<http://rdf.slidewiki.org/vocab/timestampYear> .
+<http://ld-r.org/configurations/c1540500948>	<https://github.com/ali1k/ld-reactor/blob/master/vocabulary/index.ttl#list>	<http://purl.org/net/provenance/ns#createdBy> .
+<http://ld-r.org/configurations/c1540500948>	<https://github.com/ali1k/ld-reactor/blob/master/vocabulary/index.ttl#list>	"http://purl.org/net/provenance/ns#createdBy->http://www.w3.org/2000/01/rdf-schema#label" .
+<http://ld-r.org/configurations/c1540501026>	<https://github.com/ali1k/ld-reactor/blob/master/vocabulary/index.ttl#label>	"Slide" .
+<http://ld-r.org/configurations/c1540478581>	<https://github.com/ali1k/ld-reactor/blob/master/vocabulary/index.ttl#config>	<http://example.org/1540471546> .
+<http://ld-r.org/configurations/c1540500948>	<https://github.com/ali1k/ld-reactor/blob/master/vocabulary/index.ttl#list>	<http://rdf.slidewiki.org/vocab/speakernotes> .
+<http://example.org/1540471546>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<https://github.com/ali1k/ld-reactor/blob/master/vocabulary/index.ttl#FacetsPropertyConfig> .
+<http://ld-r.org/configurations/c1540500948>	<https://github.com/ali1k/ld-reactor/blob/master/vocabulary/index.ttl#list>	<http://rdf.slidewiki.org/vocab/timestampDate> .
+<http://example.org/1540477754>	<https://github.com/ali1k/ld-reactor/blob/master/vocabulary/index.ttl#pivotDataset>	<http://demo.ld-r.org/d1540392312-users> .
+<http://ld-r.org/configurations/c1540478581>	<https://github.com/ali1k/ld-reactor/blob/master/vocabulary/index.ttl#config>	<http://example.org/1540477754> .
+<http://example.org/1540471546>	<http://www.w3.org/2000/01/rdf-schema#label>	"config for registeredYear" .
+<http://ld-r.org/configurations/c1540477842>	<https://github.com/ali1k/ld-reactor/blob/master/vocabulary/index.ttl#createdOn>	"2018-10-25T14:30:42.465Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://ld-r.org/configurations/c1540478581>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<https://github.com/ali1k/ld-reactor/blob/master/vocabulary/index.ttl#FacetsConfig> .
+<http://ld-r.org/configurations/c1540477842>	<http://www.w3.org/2000/01/rdf-schema#label>	"Creator link config" .
+<http://ld-r.org/configurations/c1540501026>	<https://github.com/ali1k/ld-reactor/blob/master/vocabulary/index.ttl#cloneOf>	<http://ld-r.org/configurations/c1540479080> .
+<http://example.org/1540477754>	<https://github.com/ali1k/ld-reactor/blob/master/vocabulary/index.ttl#label>	"User-Contributor" .
+<http://ld-r.org/fpc1540392312>	<https://github.com/ali1k/ld-reactor/blob/master/vocabulary/index.ttl#property>	<http://rdf.slidewiki.org/vocab/timestampDate> .
+<http://example.org/1540478211>	<https://github.com/ali1k/ld-reactor/blob/master/vocabulary/index.ttl#property>	"http://purl.org/net/provenance/ns#createdBy->http://www.w3.org/2000/01/rdf-schema#label" .
+<http://ld-r.org/configurations/c1540477842>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<https://github.com/ali1k/ld-reactor/blob/master/vocabulary/index.ttl#FacetsPropertyConfig> .
+<http://ld-r.org/fpc1540392312>	<https://github.com/ali1k/ld-reactor/blob/master/vocabulary/index.ttl#property>	<http://rdf.slidewiki.org/vocab/registeredDay> .
+<http://example.org/1540477754>	<https://github.com/ali1k/ld-reactor/blob/master/vocabulary/index.ttl#property>	<http://rdf.slidewiki.org/vocab/hasContibutor> .
+<http://ld-r.org/fpc1540392312>	<https://github.com/ali1k/ld-reactor/blob/master/vocabulary/index.ttl#property>	<http://rdf.slidewiki.org/vocab/timestampYear> .
+<http://ld-r.org/configurations/c1540478581>	<https://github.com/ali1k/ld-reactor/blob/master/vocabulary/index.ttl#cloneOf>	<http://ld-r.org/configurations/c1540397188> .
+<http://ld-r.org/fpc1540392312>	<https://github.com/ali1k/ld-reactor/blob/master/vocabulary/index.ttl#property>	<http://rdf.slidewiki.org/vocab/timestampMonth> .
+<http://ld-r.org/fpc1540392312>	<https://github.com/ali1k/ld-reactor/blob/master/vocabulary/index.ttl#property>	<http://rdf.slidewiki.org/vocab/timestampDay> .
+<http://ld-r.org/configurations/c1540397372>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<https://github.com/ali1k/ld-reactor/blob/master/vocabulary/index.ttl#ReactorConfig> .
+<http://ld-r.org/configurations/c1540478581>	<https://github.com/ali1k/ld-reactor/blob/master/vocabulary/index.ttl#list>	<http://rdf.slidewiki.org/vocab/allowMarkdown> .
+<http://ld-r.org/configurations/c1540501026>	<https://github.com/ali1k/ld-reactor/blob/master/vocabulary/index.ttl#createdOn>	"2018-10-25T20:57:05.657Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://ld-r.org/configurations/c1540477842>	<https://github.com/ali1k/ld-reactor/blob/master/vocabulary/index.ttl#pivotDataset>	<http://demo.ld-r.org/d1540392312-users> .
+<http://ld-r.org/configurations/c1540500948>	<https://github.com/ali1k/ld-reactor/blob/master/vocabulary/index.ttl#config>	<http://ld-r.org/configurations/c1540397372> .
+<http://ld-r.org/configurations/c1540478581>	<https://github.com/ali1k/ld-reactor/blob/master/vocabulary/index.ttl#config>	<http://ld-r.org/fpc1540392312> .
+<http://ld-r.org/configurations/c1540500948>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<https://github.com/ali1k/ld-reactor/blob/master/vocabulary/index.ttl#FacetsConfig> .
+<http://ld-r.org/configurations/c1540478581>	<https://github.com/ali1k/ld-reactor/blob/master/vocabulary/index.ttl#config>	<http://ld-r.org/configurations/c1540397372> .
+<http://ld-r.org/configurations/c1540397372>	<https://github.com/ali1k/ld-reactor/blob/master/vocabulary/index.ttl#createdOn>	"2018-10-24T16:09:31.849Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://ld-r.org/configurations/c1540477842>	<https://github.com/ali1k/ld-reactor/blob/master/vocabulary/index.ttl#property>	<http://purl.org/net/provenance/ns#createdBy> .
+<http://ld-r.org/configurations/c1540478581>	<https://github.com/ali1k/ld-reactor/blob/master/vocabulary/index.ttl#config>	<http://ld-r.org/configurations/c1540479080> .
+<http://example.org/1540478211>	<http://www.w3.org/2000/01/rdf-schema#label>	"creator/contributor config" .
+<http://ld-r.org/fpc1540392312>	<https://github.com/ali1k/ld-reactor/blob/master/vocabulary/index.ttl#property>	<http://rdf.slidewiki.org/vocab/registeredDate> .
+<http://example.org/1540478211>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<https://github.com/ali1k/ld-reactor/blob/master/vocabulary/index.ttl#FacetsPropertyConfig> .
+<http://ld-r.org/configurations/c1540501026>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<https://github.com/ali1k/ld-reactor/blob/master/vocabulary/index.ttl#FacetsPropertyConfig> .
+<http://ld-r.org/configurations/c1540501026>	<http://www.w3.org/2000/01/rdf-schema#label>	"Slide link config" .
+<http://demo.ld-r.org/dataset/http%3A%2F%2Fld-r.org%2Fconfigurations/resource/http%3A%2F%2Fld-r.org%2Fconfigurations%2Fc1540500948>	<http://xmlns.com/foaf/0.1/primaryTopic>	<http://ld-r.org/configurations/c1540500948> .
+<http://ld-r.org/fpc1540392312>	<https://github.com/ali1k/ld-reactor/blob/master/vocabulary/index.ttl#property>	<http://rdf.slidewiki.org/vocab/registered> .
+<http://example.org/1540478211>	<https://github.com/ali1k/ld-reactor/blob/master/vocabulary/index.ttl#category>	"Creators/Contributors" .
+<http://example.org/1540471546>	<https://github.com/ali1k/ld-reactor/blob/master/vocabulary/index.ttl#objectBrowser>	"BarChartBrowser" .
+<http://ld-r.org/configurations/c1540478581>	<https://github.com/ali1k/ld-reactor/blob/master/vocabulary/index.ttl#config>	<http://ld-r.org/configurations/c1540542129> .
+<http://ld-r.org/configurations/c1540478581>	<https://github.com/ali1k/ld-reactor/blob/master/vocabulary/index.ttl#createdOn>	"2018-10-25T14:43:01.444Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://ld-r.org/configurations/c1540478581>	<https://github.com/ali1k/ld-reactor/blob/master/vocabulary/index.ttl#config>	<http://ld-r.org/configurations/c1540477842> .
+<http://ld-r.org/configurations/c1540478581>	<https://github.com/ali1k/ld-reactor/blob/master/vocabulary/index.ttl#config>	<http://example.org/1540478211> .
+<http://ld-r.org/configurations/c1540478581>	<http://www.w3.org/2000/01/rdf-schema#label>	"SlideWiki complete RDF dump Facets Config ->DeckRevisions" .
+<http://ld-r.org/configurations/c1540397372>	<http://www.w3.org/2000/01/rdf-schema#label>	"do not shorten date" .
+<http://ld-r.org/fpc1540392312>	<https://github.com/ali1k/ld-reactor/blob/master/vocabulary/index.ttl#category>	"Date/Time" .
+<http://ld-r.org/configurations/c1540477842>	<https://github.com/ali1k/ld-reactor/blob/master/vocabulary/index.ttl#cloneOf>	<http://example.org/1540477754> .
+<http://ld-r.org/configurations/c1540478581>	<https://github.com/ali1k/ld-reactor/blob/master/vocabulary/index.ttl#list>	<http://rdf.slidewiki.org/vocab/isRevisedFrom> .
+<http://ld-r.org/configurations/c1540477842>	<https://github.com/ali1k/ld-reactor/blob/master/vocabulary/index.ttl#label>	"User-Creator" .
+<http://ld-r.org/configurations/c1540500948>	<https://github.com/ali1k/ld-reactor/blob/master/vocabulary/index.ttl#createdOn>	"2018-10-25T20:55:48.189Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://ld-r.org/configurations/c1540478581>	<https://github.com/ali1k/ld-reactor/blob/master/vocabulary/index.ttl#dataset>	<http://demo.ld-r.org/d1540392312-deckRevisions> .
+<http://ld-r.org/configurations/c1540478581>	<https://github.com/ali1k/ld-reactor/blob/master/vocabulary/index.ttl#list>	<http://rdf.slidewiki.org/vocab/timestampYear> .
+<http://ld-r.org/configurations/c1540478581>	<https://github.com/ali1k/ld-reactor/blob/master/vocabulary/index.ttl#list>	<http://rdf.slidewiki.org/vocab/theme> .
+<http://ld-r.org/configurations/c1540397372>	<https://github.com/ali1k/ld-reactor/blob/master/vocabulary/index.ttl#shortenURI>	"0" .
+<http://example.org/1540477754>	<http://www.w3.org/2000/01/rdf-schema#label>	"Contributor link config" .
+<http://example.org/1540477754>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<https://github.com/ali1k/ld-reactor/blob/master/vocabulary/index.ttl#FacetsPropertyConfig> .
+<http://ld-r.org/configurations/c1540500948>	<https://github.com/ali1k/ld-reactor/blob/master/vocabulary/index.ttl#list>	<http://rdf.slidewiki.org/vocab/timestamp> .
+<http://ld-r.org/configurations/c1540478581>	<https://github.com/ali1k/ld-reactor/blob/master/vocabulary/index.ttl#list>	<http://rdf.slidewiki.org/vocab/timestamp> .
+<http://ld-r.org/configurations/c1540478581>	<https://github.com/ali1k/ld-reactor/blob/master/vocabulary/index.ttl#list>	<http://rdf.slidewiki.org/vocab/timestampMonth> .
+<http://ld-r.org/configurations/c1540478581>	<https://github.com/ali1k/ld-reactor/blob/master/vocabulary/index.ttl#list>	<http://rdf.slidewiki.org/vocab/hasTag> .
+<http://ld-r.org/configurations/c1540397372>	<https://github.com/ali1k/ld-reactor/blob/master/vocabulary/index.ttl#property>	<http://rdf.slidewiki.org/vocab/timestamp> .
+<http://ld-r.org/configurations/c1540500948>	<https://github.com/ali1k/ld-reactor/blob/master/vocabulary/index.ttl#config>	<http://example.org/1540471546> .
+<http://ld-r.org/configurations/c1540500948>	<https://github.com/ali1k/ld-reactor/blob/master/vocabulary/index.ttl#config>	<http://ld-r.org/fpc1540392312> .
+<http://ld-r.org/configurations/c1540500948>	<https://github.com/ali1k/ld-reactor/blob/master/vocabulary/index.ttl#cloneOf>	<http://ld-r.org/configurations/c1540478581> .
+
+<http://example.org/1540478211>	<https://github.com/ali1k/ld-reactor/blob/master/vocabulary/index.ttl#property>	"http://rdf.slidewiki.org/vocab/hasContibutor->http://www.w3.org/2000/01/rdf-schema#label" .
+<http://example.org/1540471546>	<https://github.com/ali1k/ld-reactor/blob/master/vocabulary/index.ttl#property>	<http://rdf.slidewiki.org/vocab/registeredYear> .
+<http://ld-r.org/configurations/c1540397188>	<https://github.com/ali1k/ld-reactor/blob/master/vocabulary/index.ttl#list>	<http://rdf.slidewiki.org/vocab/registeredDay> .
+<http://ld-r.org/configurations/c1540542129>	<https://github.com/ali1k/ld-reactor/blob/master/vocabulary/index.ttl#createdOn>	"2018-10-26T08:22:09.428Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://demo.ld-r.org/dataset/http%3A%2F%2Fld-r.org%2Fconfigurations/resource/http%3A%2F%2Fld-r.org%2Fconfigurations%2Fc1540478581>	<http://xmlns.com/foaf/0.1/primaryTopic>	<http://ld-r.org/configurations/c1540478581> .
+<http://ld-r.org/configurations/c1540478581>	<https://github.com/ali1k/ld-reactor/blob/master/vocabulary/index.ttl#list>	<http://rdf.slidewiki.org/vocab/timestampDate> .
+<http://ld-r.org/configurations/c1540479080>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<https://github.com/ali1k/ld-reactor/blob/master/vocabulary/index.ttl#FacetsPropertyConfig> .
+<http://ld-r.org/configurations/c1540397188>	<https://github.com/ali1k/ld-reactor/blob/master/vocabulary/index.ttl#dataset>	<http://demo.ld-r.org/d1540392312-users> .
+<http://ld-r.org/configurations/c1540397188>	<https://github.com/ali1k/ld-reactor/blob/master/vocabulary/index.ttl#list>	<http://rdf.slidewiki.org/vocab/username> .
+<http://ld-r.org/configurations/c1540478581>	<https://github.com/ali1k/ld-reactor/blob/master/vocabulary/index.ttl#config>	<http://example.org/1540542206> .
+<http://ld-r.org/configurations/c1540397372>	<https://github.com/ali1k/ld-reactor/blob/master/vocabulary/index.ttl#property>	<http://rdf.slidewiki.org/vocab/lastUpdate> .
+<http://ld-r.org/configurations/c1540397372>	<https://github.com/ali1k/ld-reactor/blob/master/vocabulary/index.ttl#property>	<http://rdf.slidewiki.org/vocab/registered> .
+<http://ld-r.org/configurations/c1540397372>	<https://github.com/ali1k/ld-reactor/blob/master/vocabulary/index.ttl#scope>	"P" .
+<http://ld-r.org/fpc1540392312>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<https://github.com/ali1k/ld-reactor/blob/master/vocabulary/index.ttl#FacetsPropertyConfig> .
+<http://ld-r.org/fpc1540392312>	<http://www.w3.org/2000/01/rdf-schema#label>	"date category" .
+<http://ld-r.org/configurations/c1540397372>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<https://github.com/ali1k/ld-reactor/blob/master/vocabulary/index.ttl#FacetsPropertyConfig> .
+<http://ld-r.org/configurations/c1540397188>	<http://www.w3.org/2000/01/rdf-schema#label>	"SlideWiki complete RDF dump Facets Config ->Users" .
+<http://ld-r.org/configurations/c1540478581>	<https://github.com/ali1k/ld-reactor/blob/master/vocabulary/index.ttl#list>	<http://purl.org/net/provenance/ns#createdBy> .
+<http://ld-r.org/configurations/c1540479080>	<https://github.com/ali1k/ld-reactor/blob/master/vocabulary/index.ttl#label>	"Deck" .
+<http://ld-r.org/fpc1540392312>	<https://github.com/ali1k/ld-reactor/blob/master/vocabulary/index.ttl#property>	<http://rdf.slidewiki.org/vocab/registeredYear> .
+<http://ld-r.org/fpc1540392312>	<https://github.com/ali1k/ld-reactor/blob/master/vocabulary/index.ttl#property>	<http://rdf.slidewiki.org/vocab/registeredMonth> .
+<http://ld-r.org/configurations/c1540397188>	<https://github.com/ali1k/ld-reactor/blob/master/vocabulary/index.ttl#list>	<http://rdf.slidewiki.org/vocab/registered> .
+<http://ld-r.org/configurations/c1540397188>	<https://github.com/ali1k/ld-reactor/blob/master/vocabulary/index.ttl#config>	<http://ld-r.org/configurations/c1540471281> .
+<http://ld-r.org/configurations/c1540397188>	<https://github.com/ali1k/ld-reactor/blob/master/vocabulary/index.ttl#list>	<http://rdf.slidewiki.org/vocab/registeredDate> .
+<http://ld-r.org/configurations/c1540397372>	<https://github.com/ali1k/ld-reactor/blob/master/vocabulary/index.ttl#cloneOf>	<http://example.org/1503771498> .
+<http://ld-r.org/configurations/c1540542129>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<https://github.com/ali1k/ld-reactor/blob/master/vocabulary/index.ttl#FacetsPropertyConfig> .
+<http://ld-r.org/configurations/c1540478581>	<https://github.com/ali1k/ld-reactor/blob/master/vocabulary/index.ttl#list>	<http://rdf.slidewiki.org/vocab/language> .
+<http://ld-r.org/configurations/c1540478581>	<https://github.com/ali1k/ld-reactor/blob/master/vocabulary/index.ttl#list>	"http://purl.org/net/provenance/ns#createdBy->http://www.w3.org/2000/01/rdf-schema#label" .
+<http://ld-r.org/configurations/c1540478581>	<https://github.com/ali1k/ld-reactor/blob/master/vocabulary/index.ttl#list>	<http://rdf.slidewiki.org/vocab/timestampDay> .
+<http://ld-r.org/configurations/c1540397188>	<https://github.com/ali1k/ld-reactor/blob/master/vocabulary/index.ttl#list>	<http://rdf.slidewiki.org/vocab/hasCreated> .
+<http://example.org/1540542206>	<http://www.w3.org/2000/01/rdf-schema#label>	"annotations config" .
+<http://ld-r.org/configurations/c1540542129>	<https://github.com/ali1k/ld-reactor/blob/master/vocabulary/index.ttl#label>	"Tag" .
+<http://ld-r.org/fpc1540392312>	<https://github.com/ali1k/ld-reactor/blob/master/vocabulary/index.ttl#property>	<http://rdf.slidewiki.org/vocab/timestamp> .
+<http://ld-r.org/configurations/c1540478581>	<https://github.com/ali1k/ld-reactor/blob/master/vocabulary/index.ttl#list>	"http://rdf.slidewiki.org/vocab/hasTag->http://www.w3.org/2000/01/rdf-schema#label" .
+<http://example.org/1540471546>	<https://github.com/ali1k/ld-reactor/blob/master/vocabulary/index.ttl#property>	<http://rdf.slidewiki.org/vocab/timestampYear> .
+<http://ld-r.org/configurations/c1540478581>	<https://github.com/ali1k/ld-reactor/blob/master/vocabulary/index.ttl#config>	<http://example.org/1540471546> .
+<http://ld-r.org/configurations/c1540397188>	<https://github.com/ali1k/ld-reactor/blob/master/vocabulary/index.ttl#list>	<http://rdf.slidewiki.org/vocab/country> .
+<http://ld-r.org/configurations/c1540479080>	<http://www.w3.org/2000/01/rdf-schema#label>	"Deck link config" .
+<http://example.org/1540471546>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<https://github.com/ali1k/ld-reactor/blob/master/vocabulary/index.ttl#FacetsPropertyConfig> .
+<http://ld-r.org/configurations/c1540397188>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<https://github.com/ali1k/ld-reactor/blob/master/vocabulary/index.ttl#FacetsConfig> .
+<http://ld-r.org/configurations/c1540397188>	<https://github.com/ali1k/ld-reactor/blob/master/vocabulary/index.ttl#createdOn>	"2018-10-24T16:06:28.074Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://example.org/1540477754>	<https://github.com/ali1k/ld-reactor/blob/master/vocabulary/index.ttl#pivotDataset>	<http://demo.ld-r.org/d1540392312-users> .
+<http://ld-r.org/configurations/c1540478581>	<https://github.com/ali1k/ld-reactor/blob/master/vocabulary/index.ttl#config>	<http://example.org/1540477754> .
+<http://ld-r.org/configurations/c1540397188>	<https://github.com/ali1k/ld-reactor/blob/master/vocabulary/index.ttl#config>	<http://ld-r.org/configurations/c1540397372> .
+<http://example.org/1540471546>	<http://www.w3.org/2000/01/rdf-schema#label>	"config for registeredYear" .
+<http://ld-r.org/configurations/c1540477842>	<https://github.com/ali1k/ld-reactor/blob/master/vocabulary/index.ttl#createdOn>	"2018-10-25T14:30:42.465Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://ld-r.org/configurations/c1540478581>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<https://github.com/ali1k/ld-reactor/blob/master/vocabulary/index.ttl#FacetsConfig> .
+<http://ld-r.org/configurations/c1540477842>	<http://www.w3.org/2000/01/rdf-schema#label>	"Creator link config" .
+<http://example.org/1540477754>	<https://github.com/ali1k/ld-reactor/blob/master/vocabulary/index.ttl#label>	"User-Contributor" .
+<http://ld-r.org/configurations/c1540542129>	<https://github.com/ali1k/ld-reactor/blob/master/vocabulary/index.ttl#cloneOf>	<http://ld-r.org/configurations/c1540479080> .
+<http://ld-r.org/configurations/c1540397188>	<https://github.com/ali1k/ld-reactor/blob/master/vocabulary/index.ttl#cloneOf>	<http://ld-r.org/configurations/fcf1540392312> .
+<http://example.org/1540542206>	<https://github.com/ali1k/ld-reactor/blob/master/vocabulary/index.ttl#category>	"Annotations" .
+<http://ld-r.org/fpc1540392312>	<https://github.com/ali1k/ld-reactor/blob/master/vocabulary/index.ttl#property>	<http://rdf.slidewiki.org/vocab/timestampDate> .
+<http://example.org/1540478211>	<https://github.com/ali1k/ld-reactor/blob/master/vocabulary/index.ttl#property>	"http://purl.org/net/provenance/ns#createdBy->http://www.w3.org/2000/01/rdf-schema#label" .
+<http://ld-r.org/configurations/c1540477842>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<https://github.com/ali1k/ld-reactor/blob/master/vocabulary/index.ttl#FacetsPropertyConfig> .
+<http://ld-r.org/configurations/c1540397188>	<https://github.com/ali1k/ld-reactor/blob/master/vocabulary/index.ttl#config>	<http://ld-r.org/fpc1540392312> .
+<http://ld-r.org/configurations/c1540542129>	<http://www.w3.org/2000/01/rdf-schema#label>	"tag link config" .
+<http://example.org/1540477754>	<https://github.com/ali1k/ld-reactor/blob/master/vocabulary/index.ttl#property>	<http://rdf.slidewiki.org/vocab/hasContibutor> .
+<http://ld-r.org/fpc1540392312>	<https://github.com/ali1k/ld-reactor/blob/master/vocabulary/index.ttl#property>	<http://rdf.slidewiki.org/vocab/registeredDay> .
+<http://ld-r.org/fpc1540392312>	<https://github.com/ali1k/ld-reactor/blob/master/vocabulary/index.ttl#property>	<http://rdf.slidewiki.org/vocab/timestampYear> .
+<http://ld-r.org/configurations/c1540478581>	<https://github.com/ali1k/ld-reactor/blob/master/vocabulary/index.ttl#cloneOf>	<http://ld-r.org/configurations/c1540397188> .
+<http://ld-r.org/configurations/c1540479080>	<https://github.com/ali1k/ld-reactor/blob/master/vocabulary/index.ttl#cloneOf>	<http://ld-r.org/configurations/c1540477842> .
+<http://ld-r.org/configurations/c1540479080>	<https://github.com/ali1k/ld-reactor/blob/master/vocabulary/index.ttl#pivotDataset>	<http://demo.ld-r.org/d1540392312-decks> .
+<http://ld-r.org/fpc1540392312>	<https://github.com/ali1k/ld-reactor/blob/master/vocabulary/index.ttl#property>	<http://rdf.slidewiki.org/vocab/timestampDay> .
+<http://ld-r.org/fpc1540392312>	<https://github.com/ali1k/ld-reactor/blob/master/vocabulary/index.ttl#property>	<http://rdf.slidewiki.org/vocab/timestampMonth> .
+<http://ld-r.org/configurations/c1540397372>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<https://github.com/ali1k/ld-reactor/blob/master/vocabulary/index.ttl#ReactorConfig> .
+<http://example.org/1540542206>	<https://github.com/ali1k/ld-reactor/blob/master/vocabulary/index.ttl#property>	"http://rdf.slidewiki.org/vocab/hasTag->http://www.w3.org/2000/01/rdf-schema#label" .
+<http://ld-r.org/configurations/c1540478581>	<https://github.com/ali1k/ld-reactor/blob/master/vocabulary/index.ttl#list>	<http://rdf.slidewiki.org/vocab/allowMarkdown> .
+<http://ld-r.org/configurations/c1540542129>	<https://github.com/ali1k/ld-reactor/blob/master/vocabulary/index.ttl#property>	<http://rdf.slidewiki.org/vocab/hasTag> .
+<http://ld-r.org/configurations/c1540477842>	<https://github.com/ali1k/ld-reactor/blob/master/vocabulary/index.ttl#pivotDataset>	<http://demo.ld-r.org/d1540392312-users> .
+<http://ld-r.org/configurations/c1540397188>	<https://github.com/ali1k/ld-reactor/blob/master/vocabulary/index.ttl#config>	<http://example.org/1540471342> .
+<http://ld-r.org/configurations/c1540478581>	<https://github.com/ali1k/ld-reactor/blob/master/vocabulary/index.ttl#config>	<http://ld-r.org/fpc1540392312> .
+<http://ld-r.org/configurations/c1540397188>	<https://github.com/ali1k/ld-reactor/blob/master/vocabulary/index.ttl#list>	<http://rdf.slidewiki.org/vocab/registeredYear> .
+<http://ld-r.org/configurations/c1540397188>	<https://github.com/ali1k/ld-reactor/blob/master/vocabulary/index.ttl#list>	<http://rdf.slidewiki.org/vocab/registeredMonth> .
+<http://ld-r.org/configurations/c1540478581>	<https://github.com/ali1k/ld-reactor/blob/master/vocabulary/index.ttl#config>	<http://ld-r.org/configurations/c1540397372> .
+<http://ld-r.org/configurations/c1540397372>	<https://github.com/ali1k/ld-reactor/blob/master/vocabulary/index.ttl#createdOn>	"2018-10-24T16:09:31.849Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://ld-r.org/configurations/c1540477842>	<https://github.com/ali1k/ld-reactor/blob/master/vocabulary/index.ttl#property>	<http://purl.org/net/provenance/ns#createdBy> .
+<http://ld-r.org/configurations/c1540478581>	<https://github.com/ali1k/ld-reactor/blob/master/vocabulary/index.ttl#config>	<http://ld-r.org/configurations/c1540479080> .
+<http://example.org/1540478211>	<http://www.w3.org/2000/01/rdf-schema#label>	"creator/contributor config" .
+<http://ld-r.org/fpc1540392312>	<https://github.com/ali1k/ld-reactor/blob/master/vocabulary/index.ttl#property>	<http://rdf.slidewiki.org/vocab/registeredDate> .
+<http://example.org/1540478211>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<https://github.com/ali1k/ld-reactor/blob/master/vocabulary/index.ttl#FacetsPropertyConfig> .
+<http://ld-r.org/configurations/c1540479080>	<https://github.com/ali1k/ld-reactor/blob/master/vocabulary/index.ttl#property>	<http://rdf.slidewiki.org/vocab/isRevisedFrom> .
+<http://ld-r.org/configurations/c1540397188>	<https://github.com/ali1k/ld-reactor/blob/master/vocabulary/index.ttl#config>	<http://example.org/1540471546> .
+<http://ld-r.org/fpc1540392312>	<https://github.com/ali1k/ld-reactor/blob/master/vocabulary/index.ttl#property>	<http://rdf.slidewiki.org/vocab/registered> .
+<http://example.org/1540478211>	<https://github.com/ali1k/ld-reactor/blob/master/vocabulary/index.ttl#category>	"Creators/Contributors" .
+<http://example.org/1540471546>	<https://github.com/ali1k/ld-reactor/blob/master/vocabulary/index.ttl#objectBrowser>	"BarChartBrowser" .
+<http://ld-r.org/configurations/c1540478581>	<https://github.com/ali1k/ld-reactor/blob/master/vocabulary/index.ttl#config>	<http://ld-r.org/configurations/c1540542129> .
+<http://ld-r.org/configurations/c1540478581>	<https://github.com/ali1k/ld-reactor/blob/master/vocabulary/index.ttl#createdOn>	"2018-10-25T14:43:01.444Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://ld-r.org/configurations/c1540478581>	<https://github.com/ali1k/ld-reactor/blob/master/vocabulary/index.ttl#config>	<http://ld-r.org/configurations/c1540477842> .
+<http://ld-r.org/configurations/c1540478581>	<https://github.com/ali1k/ld-reactor/blob/master/vocabulary/index.ttl#config>	<http://example.org/1540478211> .
+<http://ld-r.org/configurations/c1540478581>	<http://www.w3.org/2000/01/rdf-schema#label>	"SlideWiki complete RDF dump Facets Config ->DeckRevisions" .
+<http://ld-r.org/configurations/c1540397372>	<http://www.w3.org/2000/01/rdf-schema#label>	"do not shorten date" .
+<http://ld-r.org/configurations/c1540542129>	<https://github.com/ali1k/ld-reactor/blob/master/vocabulary/index.ttl#pivotDataset>	<http://demo.ld-r.org/d1540392312-tags> .
+<http://example.org/1540542206>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<https://github.com/ali1k/ld-reactor/blob/master/vocabulary/index.ttl#FacetsPropertyConfig> .
+<http://ld-r.org/fpc1540392312>	<https://github.com/ali1k/ld-reactor/blob/master/vocabulary/index.ttl#category>	"Date/Time" .
+<http://ld-r.org/configurations/c1540477842>	<https://github.com/ali1k/ld-reactor/blob/master/vocabulary/index.ttl#cloneOf>	<http://example.org/1540477754> .
+<http://ld-r.org/configurations/c1540478581>	<https://github.com/ali1k/ld-reactor/blob/master/vocabulary/index.ttl#list>	<http://rdf.slidewiki.org/vocab/isRevisedFrom> .
+<http://ld-r.org/configurations/c1540477842>	<https://github.com/ali1k/ld-reactor/blob/master/vocabulary/index.ttl#label>	"User-Creator" .
+<http://ld-r.org/configurations/c1540397188>	<https://github.com/ali1k/ld-reactor/blob/master/vocabulary/index.ttl#createdBy>	<http://demo.ld-r.org/user/1503847792t> .
+<http://ld-r.org/configurations/c1540478581>	<https://github.com/ali1k/ld-reactor/blob/master/vocabulary/index.ttl#dataset>	<http://demo.ld-r.org/d1540392312-deckRevisions> .
+<http://ld-r.org/configurations/c1540478581>	<https://github.com/ali1k/ld-reactor/blob/master/vocabulary/index.ttl#list>	<http://rdf.slidewiki.org/vocab/timestampYear> .
+<http://ld-r.org/configurations/c1540397372>	<https://github.com/ali1k/ld-reactor/blob/master/vocabulary/index.ttl#shortenURI>	"0" .
+<http://ld-r.org/configurations/c1540478581>	<https://github.com/ali1k/ld-reactor/blob/master/vocabulary/index.ttl#list>	<http://rdf.slidewiki.org/vocab/theme> .
+<http://example.org/1540477754>	<http://www.w3.org/2000/01/rdf-schema#label>	"Contributor link config" .
+<http://example.org/1540477754>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<https://github.com/ali1k/ld-reactor/blob/master/vocabulary/index.ttl#FacetsPropertyConfig> .
+<http://ld-r.org/configurations/c1540478581>	<https://github.com/ali1k/ld-reactor/blob/master/vocabulary/index.ttl#list>	<http://rdf.slidewiki.org/vocab/timestamp> .
+<http://ld-r.org/configurations/c1540478581>	<https://github.com/ali1k/ld-reactor/blob/master/vocabulary/index.ttl#list>	<http://rdf.slidewiki.org/vocab/timestampMonth> .
+<http://ld-r.org/configurations/c1540478581>	<https://github.com/ali1k/ld-reactor/blob/master/vocabulary/index.ttl#list>	<http://rdf.slidewiki.org/vocab/hasTag> .
+<http://ld-r.org/configurations/c1540397188>	<https://github.com/ali1k/ld-reactor/blob/master/vocabulary/index.ttl#list>	<http://rdf.slidewiki.org/vocab/surname> .
+<http://ld-r.org/configurations/c1540397372>	<https://github.com/ali1k/ld-reactor/blob/master/vocabulary/index.ttl#property>	<http://rdf.slidewiki.org/vocab/timestamp> .
+<http://ld-r.org/configurations/c1540479080>	<https://github.com/ali1k/ld-reactor/blob/master/vocabulary/index.ttl#createdOn>	"2018-10-25T14:51:19.874Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://ld-r.org/configurations/c1540397188>	<https://github.com/ali1k/ld-reactor/blob/master/vocabulary/index.ttl#list>	<http://rdf.slidewiki.org/vocab/forename> .
+
+<http://example.org/1540478211>	<https://github.com/ali1k/ld-reactor/blob/master/vocabulary/index.ttl#property>	"http://rdf.slidewiki.org/vocab/hasContibutor->http://www.w3.org/2000/01/rdf-schema#label" .
+<http://ld-r.org/configurations/c1540453886>	<https://github.com/ali1k/ld-reactor/blob/master/vocabulary/index.ttl#config>	<http://example.org/1540478211> .
+<http://ld-r.org/configurations/c1540397188>	<https://github.com/ali1k/ld-reactor/blob/master/vocabulary/index.ttl#list>	<http://rdf.slidewiki.org/vocab/registeredDay> .
+<http://example.org/1540471546>	<https://github.com/ali1k/ld-reactor/blob/master/vocabulary/index.ttl#property>	<http://rdf.slidewiki.org/vocab/registeredYear> .
+<http://ld-r.org/configurations/c1540453886>	<https://github.com/ali1k/ld-reactor/blob/master/vocabulary/index.ttl#list>	<http://rdf.slidewiki.org/vocab/timestampDay> .
+<http://ld-r.org/configurations/c1540397188>	<https://github.com/ali1k/ld-reactor/blob/master/vocabulary/index.ttl#dataset>	<http://demo.ld-r.org/d1540392312-users> .
+<http://ld-r.org/configurations/c1540397188>	<https://github.com/ali1k/ld-reactor/blob/master/vocabulary/index.ttl#list>	<http://rdf.slidewiki.org/vocab/username> .
+<http://ld-r.org/configurations/c1540397372>	<https://github.com/ali1k/ld-reactor/blob/master/vocabulary/index.ttl#property>	<http://rdf.slidewiki.org/vocab/lastUpdate> .
+<http://demo.ld-r.org/dataset/http%3A%2F%2Fld-r.org%2Fconfigurations/resource/http%3A%2F%2Fld-r.org%2Fconfigurations%2Fc1540453886>	<http://xmlns.com/foaf/0.1/primaryTopic>	<http://ld-r.org/configurations/c1540453886> .
+<http://ld-r.org/configurations/c1540397372>	<https://github.com/ali1k/ld-reactor/blob/master/vocabulary/index.ttl#property>	<http://rdf.slidewiki.org/vocab/registered> .
+<http://ld-r.org/configurations/c1540479488>	<http://www.w3.org/2000/01/rdf-schema#label>	"Deck Revision link config" .
+<http://ld-r.org/configurations/c1540397372>	<https://github.com/ali1k/ld-reactor/blob/master/vocabulary/index.ttl#scope>	"P" .
+<http://ld-r.org/configurations/c1540453886>	<https://github.com/ali1k/ld-reactor/blob/master/vocabulary/index.ttl#config>	<http://example.org/1540471546> .
+<http://ld-r.org/fpc1540392312>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<https://github.com/ali1k/ld-reactor/blob/master/vocabulary/index.ttl#FacetsPropertyConfig> .
+<http://ld-r.org/configurations/c1540453886>	<https://github.com/ali1k/ld-reactor/blob/master/vocabulary/index.ttl#list>	<http://rdf.slidewiki.org/vocab/timestamp> .
+<http://ld-r.org/fpc1540392312>	<http://www.w3.org/2000/01/rdf-schema#label>	"date category" .
+<http://ld-r.org/configurations/c1540397372>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<https://github.com/ali1k/ld-reactor/blob/master/vocabulary/index.ttl#FacetsPropertyConfig> .
+<http://ld-r.org/configurations/c1540397188>	<http://www.w3.org/2000/01/rdf-schema#label>	"SlideWiki complete RDF dump Facets Config ->Users" .
+<http://ld-r.org/fpc1540392312>	<https://github.com/ali1k/ld-reactor/blob/master/vocabulary/index.ttl#property>	<http://rdf.slidewiki.org/vocab/registeredYear> .
+<http://ld-r.org/configurations/c1540453886>	<https://github.com/ali1k/ld-reactor/blob/master/vocabulary/index.ttl#createdOn>	"2018-10-25T07:51:26.115Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://ld-r.org/fpc1540392312>	<https://github.com/ali1k/ld-reactor/blob/master/vocabulary/index.ttl#property>	<http://rdf.slidewiki.org/vocab/registeredMonth> .
+<http://ld-r.org/configurations/c1540397188>	<https://github.com/ali1k/ld-reactor/blob/master/vocabulary/index.ttl#config>	<http://ld-r.org/configurations/c1540471281> .
+<http://ld-r.org/configurations/c1540397188>	<https://github.com/ali1k/ld-reactor/blob/master/vocabulary/index.ttl#list>	<http://rdf.slidewiki.org/vocab/registered> .
+<http://ld-r.org/configurations/c1540453886>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<https://github.com/ali1k/ld-reactor/blob/master/vocabulary/index.ttl#FacetsConfig> .
+<http://ld-r.org/configurations/c1540397188>	<https://github.com/ali1k/ld-reactor/blob/master/vocabulary/index.ttl#list>	<http://rdf.slidewiki.org/vocab/registeredDate> .
+<http://ld-r.org/configurations/c1540397372>	<https://github.com/ali1k/ld-reactor/blob/master/vocabulary/index.ttl#cloneOf>	<http://example.org/1503771498> .
+<http://ld-r.org/configurations/c1540397188>	<https://github.com/ali1k/ld-reactor/blob/master/vocabulary/index.ttl#list>	<http://rdf.slidewiki.org/vocab/hasCreated> .
+<http://ld-r.org/configurations/c1540453886>	<https://github.com/ali1k/ld-reactor/blob/master/vocabulary/index.ttl#list>	<http://rdf.slidewiki.org/vocab/hasRevision> .
+<http://ld-r.org/configurations/c1540453886>	<https://github.com/ali1k/ld-reactor/blob/master/vocabulary/index.ttl#list>	<http://rdf.slidewiki.org/vocab/hasContibutor> .
+<http://ld-r.org/fpc1540392312>	<https://github.com/ali1k/ld-reactor/blob/master/vocabulary/index.ttl#property>	<http://rdf.slidewiki.org/vocab/timestamp> .
+<http://example.org/1540471546>	<https://github.com/ali1k/ld-reactor/blob/master/vocabulary/index.ttl#property>	<http://rdf.slidewiki.org/vocab/timestampYear> .
+<http://ld-r.org/configurations/c1540453886>	<https://github.com/ali1k/ld-reactor/blob/master/vocabulary/index.ttl#list>	<http://rdf.slidewiki.org/vocab/timestampDate> .
+<http://ld-r.org/configurations/c1540397188>	<https://github.com/ali1k/ld-reactor/blob/master/vocabulary/index.ttl#list>	<http://rdf.slidewiki.org/vocab/country> .
+<http://example.org/1540471546>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<https://github.com/ali1k/ld-reactor/blob/master/vocabulary/index.ttl#FacetsPropertyConfig> .
+<http://ld-r.org/configurations/c1540397188>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<https://github.com/ali1k/ld-reactor/blob/master/vocabulary/index.ttl#FacetsConfig> .
+<http://ld-r.org/configurations/c1540397188>	<https://github.com/ali1k/ld-reactor/blob/master/vocabulary/index.ttl#createdOn>	"2018-10-24T16:06:28.074Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://example.org/1540477754>	<https://github.com/ali1k/ld-reactor/blob/master/vocabulary/index.ttl#pivotDataset>	<http://demo.ld-r.org/d1540392312-users> .
+<http://ld-r.org/configurations/c1540397188>	<https://github.com/ali1k/ld-reactor/blob/master/vocabulary/index.ttl#config>	<http://ld-r.org/configurations/c1540397372> .
+<http://ld-r.org/configurations/c1540453886>	<https://github.com/ali1k/ld-reactor/blob/master/vocabulary/index.ttl#config>	<http://ld-r.org/configurations/c1540477842> .
+<http://example.org/1540471546>	<http://www.w3.org/2000/01/rdf-schema#label>	"config for registeredYear" .
+<http://ld-r.org/configurations/c1540477842>	<https://github.com/ali1k/ld-reactor/blob/master/vocabulary/index.ttl#createdOn>	"2018-10-25T14:30:42.465Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://ld-r.org/configurations/c1540477842>	<http://www.w3.org/2000/01/rdf-schema#label>	"Creator link config" .
+<http://ld-r.org/configurations/c1540453886>	<https://github.com/ali1k/ld-reactor/blob/master/vocabulary/index.ttl#list>	"http://rdf.slidewiki.org/vocab/hasRevision->http://www.w3.org/2000/01/rdf-schema#label" .
+<http://ld-r.org/configurations/c1540453886>	<https://github.com/ali1k/ld-reactor/blob/master/vocabulary/index.ttl#list>	"http://purl.org/net/provenance/ns#createdBy->http://www.w3.org/2000/01/rdf-schema#label" .
+<http://example.org/1540477754>	<https://github.com/ali1k/ld-reactor/blob/master/vocabulary/index.ttl#label>	"User-Contributor" .
+<http://ld-r.org/configurations/c1540397188>	<https://github.com/ali1k/ld-reactor/blob/master/vocabulary/index.ttl#cloneOf>	<http://ld-r.org/configurations/fcf1540392312> .
+<http://ld-r.org/fpc1540392312>	<https://github.com/ali1k/ld-reactor/blob/master/vocabulary/index.ttl#property>	<http://rdf.slidewiki.org/vocab/timestampDate> .
+<http://example.org/1540478211>	<https://github.com/ali1k/ld-reactor/blob/master/vocabulary/index.ttl#property>	"http://purl.org/net/provenance/ns#createdBy->http://www.w3.org/2000/01/rdf-schema#label" .
+<http://ld-r.org/configurations/c1540477842>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<https://github.com/ali1k/ld-reactor/blob/master/vocabulary/index.ttl#FacetsPropertyConfig> .
+<http://ld-r.org/configurations/c1540397188>	<https://github.com/ali1k/ld-reactor/blob/master/vocabulary/index.ttl#config>	<http://ld-r.org/fpc1540392312> .
+<http://ld-r.org/configurations/c1540479488>	<https://github.com/ali1k/ld-reactor/blob/master/vocabulary/index.ttl#cloneOf>	<http://ld-r.org/configurations/c1540477842> .
+<http://ld-r.org/fpc1540392312>	<https://github.com/ali1k/ld-reactor/blob/master/vocabulary/index.ttl#property>	<http://rdf.slidewiki.org/vocab/registeredDay> .
+<http://example.org/1540477754>	<https://github.com/ali1k/ld-reactor/blob/master/vocabulary/index.ttl#property>	<http://rdf.slidewiki.org/vocab/hasContibutor> .
+<http://ld-r.org/configurations/c1540479488>	<https://github.com/ali1k/ld-reactor/blob/master/vocabulary/index.ttl#pivotDataset>	<http://demo.ld-r.org/d1540392312-deckRevisions> .
+<http://ld-r.org/fpc1540392312>	<https://github.com/ali1k/ld-reactor/blob/master/vocabulary/index.ttl#property>	<http://rdf.slidewiki.org/vocab/timestampYear> .
+<http://ld-r.org/fpc1540392312>	<https://github.com/ali1k/ld-reactor/blob/master/vocabulary/index.ttl#property>	<http://rdf.slidewiki.org/vocab/timestampMonth> .
+<http://ld-r.org/configurations/c1540453886>	<https://github.com/ali1k/ld-reactor/blob/master/vocabulary/index.ttl#list>	<http://rdf.slidewiki.org/vocab/timestampYear> .
+<http://ld-r.org/fpc1540392312>	<https://github.com/ali1k/ld-reactor/blob/master/vocabulary/index.ttl#property>	<http://rdf.slidewiki.org/vocab/timestampDay> .
+<http://ld-r.org/configurations/c1540397372>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<https://github.com/ali1k/ld-reactor/blob/master/vocabulary/index.ttl#ReactorConfig> .
+<http://ld-r.org/configurations/c1540453886>	<https://github.com/ali1k/ld-reactor/blob/master/vocabulary/index.ttl#dataset>	<http://demo.ld-r.org/d1540392312-decks> .
+<http://ld-r.org/configurations/c1540477842>	<https://github.com/ali1k/ld-reactor/blob/master/vocabulary/index.ttl#pivotDataset>	<http://demo.ld-r.org/d1540392312-users> .
+<http://ld-r.org/configurations/c1540397188>	<https://github.com/ali1k/ld-reactor/blob/master/vocabulary/index.ttl#config>	<http://example.org/1540471342> .
+<http://ld-r.org/configurations/c1540397188>	<https://github.com/ali1k/ld-reactor/blob/master/vocabulary/index.ttl#list>	<http://rdf.slidewiki.org/vocab/registeredYear> .
+<http://ld-r.org/configurations/c1540397188>	<https://github.com/ali1k/ld-reactor/blob/master/vocabulary/index.ttl#list>	<http://rdf.slidewiki.org/vocab/registeredMonth> .
+<http://ld-r.org/configurations/c1540453886>	<https://github.com/ali1k/ld-reactor/blob/master/vocabulary/index.ttl#config>	<http://example.org/1540477754> .
+<http://ld-r.org/configurations/c1540397372>	<https://github.com/ali1k/ld-reactor/blob/master/vocabulary/index.ttl#createdOn>	"2018-10-24T16:09:31.849Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://ld-r.org/configurations/c1540453886>	<https://github.com/ali1k/ld-reactor/blob/master/vocabulary/index.ttl#list>	<http://rdf.slidewiki.org/vocab/timestampMonth> .
+<http://ld-r.org/configurations/c1540477842>	<https://github.com/ali1k/ld-reactor/blob/master/vocabulary/index.ttl#property>	<http://purl.org/net/provenance/ns#createdBy> .
+<http://example.org/1540478211>	<http://www.w3.org/2000/01/rdf-schema#label>	"creator/contributor config" .
+<http://ld-r.org/fpc1540392312>	<https://github.com/ali1k/ld-reactor/blob/master/vocabulary/index.ttl#property>	<http://rdf.slidewiki.org/vocab/registeredDate> .
+<http://example.org/1540478211>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<https://github.com/ali1k/ld-reactor/blob/master/vocabulary/index.ttl#FacetsPropertyConfig> .
+<http://ld-r.org/configurations/c1540397188>	<https://github.com/ali1k/ld-reactor/blob/master/vocabulary/index.ttl#config>	<http://example.org/1540471546> .
+<http://ld-r.org/configurations/c1540453886>	<http://www.w3.org/2000/01/rdf-schema#label>	"SlideWiki complete RDF dump Facets Config ->Decks" .
+<http://ld-r.org/fpc1540392312>	<https://github.com/ali1k/ld-reactor/blob/master/vocabulary/index.ttl#property>	<http://rdf.slidewiki.org/vocab/registered> .
+<http://ld-r.org/configurations/c1540453886>	<https://github.com/ali1k/ld-reactor/blob/master/vocabulary/index.ttl#list>	<http://rdf.slidewiki.org/vocab/lastUpdate> .
+<http://example.org/1540471546>	<https://github.com/ali1k/ld-reactor/blob/master/vocabulary/index.ttl#objectBrowser>	"BarChartBrowser" .
+<http://example.org/1540478211>	<https://github.com/ali1k/ld-reactor/blob/master/vocabulary/index.ttl#category>	"Creators/Contributors" .
+<http://ld-r.org/configurations/c1540479488>	<https://github.com/ali1k/ld-reactor/blob/master/vocabulary/index.ttl#createdOn>	"2018-10-25T14:58:07.835Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://ld-r.org/configurations/c1540453886>	<https://github.com/ali1k/ld-reactor/blob/master/vocabulary/index.ttl#list>	<http://rdf.slidewiki.org/vocab/active> .
+<http://ld-r.org/configurations/c1540397372>	<http://www.w3.org/2000/01/rdf-schema#label>	"do not shorten date" .
+<http://ld-r.org/configurations/c1540479488>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<https://github.com/ali1k/ld-reactor/blob/master/vocabulary/index.ttl#FacetsPropertyConfig> .
+<http://ld-r.org/fpc1540392312>	<https://github.com/ali1k/ld-reactor/blob/master/vocabulary/index.ttl#category>	"Date/Time" .
+<http://ld-r.org/configurations/c1540453886>	<https://github.com/ali1k/ld-reactor/blob/master/vocabulary/index.ttl#cloneOf>	<http://ld-r.org/configurations/c1540397188> .
+<http://ld-r.org/configurations/c1540453886>	<https://github.com/ali1k/ld-reactor/blob/master/vocabulary/index.ttl#config>	<http://ld-r.org/fpc1540392312> .
+<http://ld-r.org/configurations/c1540477842>	<https://github.com/ali1k/ld-reactor/blob/master/vocabulary/index.ttl#cloneOf>	<http://example.org/1540477754> .
+<http://ld-r.org/configurations/c1540453886>	<https://github.com/ali1k/ld-reactor/blob/master/vocabulary/index.ttl#list>	<http://purl.org/net/provenance/ns#createdBy> .
+<http://ld-r.org/configurations/c1540453886>	<https://github.com/ali1k/ld-reactor/blob/master/vocabulary/index.ttl#list>	"http://rdf.slidewiki.org/vocab/hasContibutor->http://www.w3.org/2000/01/rdf-schema#label" .
+<http://ld-r.org/configurations/c1540477842>	<https://github.com/ali1k/ld-reactor/blob/master/vocabulary/index.ttl#label>	"User-Creator" .
+<http://ld-r.org/configurations/c1540479488>	<https://github.com/ali1k/ld-reactor/blob/master/vocabulary/index.ttl#label>	"DeckRevision" .
+<http://ld-r.org/configurations/c1540397188>	<https://github.com/ali1k/ld-reactor/blob/master/vocabulary/index.ttl#createdBy>	<http://demo.ld-r.org/user/1503847792t> .
+<http://ld-r.org/configurations/c1540453886>	<https://github.com/ali1k/ld-reactor/blob/master/vocabulary/index.ttl#list>	<http://rdf.slidewiki.org/vocab/hidden> .
+<http://ld-r.org/configurations/c1540453886>	<https://github.com/ali1k/ld-reactor/blob/master/vocabulary/index.ttl#config>	<http://ld-r.org/configurations/c1540397372> .
+<http://ld-r.org/configurations/c1540397372>	<https://github.com/ali1k/ld-reactor/blob/master/vocabulary/index.ttl#shortenURI>	"0" .
+<http://example.org/1540477754>	<http://www.w3.org/2000/01/rdf-schema#label>	"Contributor link config" .
+<http://ld-r.org/configurations/c1540479488>	<https://github.com/ali1k/ld-reactor/blob/master/vocabulary/index.ttl#property>	<http://rdf.slidewiki.org/vocab/hasRevision> .
+<http://example.org/1540477754>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<https://github.com/ali1k/ld-reactor/blob/master/vocabulary/index.ttl#FacetsPropertyConfig> .
+<http://ld-r.org/configurations/c1540453886>	<https://github.com/ali1k/ld-reactor/blob/master/vocabulary/index.ttl#config>	<http://ld-r.org/configurations/c1540479488> .
+<http://ld-r.org/configurations/c1540397188>	<https://github.com/ali1k/ld-reactor/blob/master/vocabulary/index.ttl#list>	<http://rdf.slidewiki.org/vocab/surname> .
+<http://ld-r.org/configurations/c1540397372>	<https://github.com/ali1k/ld-reactor/blob/master/vocabulary/index.ttl#property>	<http://rdf.slidewiki.org/vocab/timestamp> .
+<http://ld-r.org/configurations/c1540453886>	<https://github.com/ali1k/ld-reactor/blob/master/vocabulary/index.ttl#list>	<http://rdf.slidewiki.org/vocab/license> .
+<http://ld-r.org/configurations/c1540397188>	<https://github.com/ali1k/ld-reactor/blob/master/vocabulary/index.ttl#list>	<http://rdf.slidewiki.org/vocab/forename> .
+
+<http://ld-r.org/configurations/c1540498758>	<https://github.com/ali1k/ld-reactor/blob/master/vocabulary/index.ttl#scope>	"D" .
+<http://ld-r.org/configurations/c1540498758>	<https://github.com/ali1k/ld-reactor/blob/master/vocabulary/index.ttl#datasetLabel>	"SlideWiki complete RDF dump (25-10-2018) -> Questions" .
+<http://ld-r.org/configurations/c1540498758>	<http://www.w3.org/2000/01/rdf-schema#label>	"SlideWiki complete RDF dump Reactor Config -> Questions" .
+<http://ld-r.org/configurations/c1540498758>	<https://github.com/ali1k/ld-reactor/blob/master/vocabulary/index.ttl#cloneOf>	<http://ld-r.org/configurations/c1540486012> .
+<http://ld-r.org/configurations/c1540486012>	<https://github.com/ali1k/ld-reactor/blob/master/vocabulary/index.ttl#cloneOf>	<http://ld-r.org/configurations/c1540479818> .
+<http://ld-r.org/configurations/c1540486012>	<https://github.com/ali1k/ld-reactor/blob/master/vocabulary/index.ttl#maxNumberOfResourcesOnPage>	"20" .
+<http://ld-r.org/configurations/c1540486012>	<https://github.com/ali1k/ld-reactor/blob/master/vocabulary/index.ttl#resourceFocusType>	<http://rdf.slidewiki.org/vocab/Tag> .
+<http://ld-r.org/configurations/c1540498758>	<https://github.com/ali1k/ld-reactor/blob/master/vocabulary/index.ttl#createdOn>	"2018-10-25T20:19:17.539Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://ld-r.org/configurations/c1540498758>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<https://github.com/ali1k/ld-reactor/blob/master/vocabulary/index.ttl#ReactorConfig> .
+<http://ld-r.org/configurations/c1540486012>	<https://github.com/ali1k/ld-reactor/blob/master/vocabulary/index.ttl#createdOn>	"2018-10-25T16:46:52.244Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://ld-r.org/configurations/c1540498758>	<https://github.com/ali1k/ld-reactor/blob/master/vocabulary/index.ttl#maxNumberOfResourcesOnPage>	"20" .
+<http://ld-r.org/configurations/c1540486012>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<https://github.com/ali1k/ld-reactor/blob/master/vocabulary/index.ttl#ReactorConfig> .
+<http://ld-r.org/configurations/c1540486012>	<https://github.com/ali1k/ld-reactor/blob/master/vocabulary/index.ttl#scope>	"D" .
+<http://ld-r.org/configurations/c1540486012>	<https://github.com/ali1k/ld-reactor/blob/master/vocabulary/index.ttl#datasetLabel>	"SlideWiki complete RDF dump (25-10-2018) -> Tags" .
+<http://demo.ld-r.org/dataset/http%3A%2F%2Fld-r.org%2Fconfigurations/resource/http%3A%2F%2Fld-r.org%2Fconfigurations%2Fc1540498758>	<http://xmlns.com/foaf/0.1/primaryTopic>	<http://ld-r.org/configurations/c1540498758> .
+<http://ld-r.org/configurations/c1540486012>	<http://www.w3.org/2000/01/rdf-schema#label>	"SlideWiki complete RDF dump Reactor Config -> Tags" .
+<http://ld-r.org/configurations/c1540498758>	<https://github.com/ali1k/ld-reactor/blob/master/vocabulary/index.ttl#resourceFocusType>	<http://rdf.slidewiki.org/vocab/Question> .
+<http://ld-r.org/configurations/c1540486012>	<https://github.com/ali1k/ld-reactor/blob/master/vocabulary/index.ttl#resourceLabelProperty>	<http://rdf.slidewiki.org/vocab/defaultName> .
+<http://ld-r.org/configurations/c1540486012>	<https://github.com/ali1k/ld-reactor/blob/master/vocabulary/index.ttl#dataset>	<http://demo.ld-r.org/d1540392312-tags> .
+<http://ld-r.org/configurations/c1540498758>	<https://github.com/ali1k/ld-reactor/blob/master/vocabulary/index.ttl#resourceLabelProperty>	<http://rdf.slidewiki.org/vocab/question> .
+<http://ld-r.org/configurations/c1540498758>	<https://github.com/ali1k/ld-reactor/blob/master/vocabulary/index.ttl#dataset>	<http://demo.ld-r.org/d1540392312-questions> .
+
+<http://ld-r.org/configurations/c1540478482>	<https://github.com/ali1k/ld-reactor/blob/master/vocabulary/index.ttl#scope>	"D" .
+<http://ld-r.org/configurations/c1540500886>	<https://github.com/ali1k/ld-reactor/blob/master/vocabulary/index.ttl#scope>	"D" .
+<http://demo.ld-r.org/dataset/http%3A%2F%2Fld-r.org%2Fconfigurations/resource/http%3A%2F%2Fld-r.org%2Fconfigurations%2Fc1540500886>	<http://xmlns.com/foaf/0.1/primaryTopic>	<http://ld-r.org/configurations/c1540500886> .
+<http://ld-r.org/configurations/c1540478482>	<http://www.w3.org/2000/01/rdf-schema#label>	"SlideWiki complete RDF dump Reactor Config -> DeckRevisions" .
+<http://ld-r.org/configurations/c1540500886>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<https://github.com/ali1k/ld-reactor/blob/master/vocabulary/index.ttl#ReactorConfig> .
+<http://ld-r.org/configurations/c1540478482>	<https://github.com/ali1k/ld-reactor/blob/master/vocabulary/index.ttl#createdOn>	"2018-10-25T14:41:21.999Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://ld-r.org/configurations/c1540500886>	<https://github.com/ali1k/ld-reactor/blob/master/vocabulary/index.ttl#createdOn>	"2018-10-25T20:54:45.766Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://ld-r.org/configurations/c1540478482>	<https://github.com/ali1k/ld-reactor/blob/master/vocabulary/index.ttl#cloneOf>	<http://ld-r.org/configurations/c1540396832> .
+<http://ld-r.org/configurations/c1540478482>	<https://github.com/ali1k/ld-reactor/blob/master/vocabulary/index.ttl#datasetLabel>	"SlideWiki complete RDF dump (25-10-2018) -> DeckRevisions" .
+<http://ld-r.org/configurations/c1540500886>	<https://github.com/ali1k/ld-reactor/blob/master/vocabulary/index.ttl#datasetLabel>	"SlideWiki complete RDF dump (25-10-2018) -> SlideRevisions" .
+<http://ld-r.org/configurations/c1540500886>	<https://github.com/ali1k/ld-reactor/blob/master/vocabulary/index.ttl#cloneOf>	<http://ld-r.org/configurations/c1540478482> .
+<http://ld-r.org/configurations/c1540500886>	<https://github.com/ali1k/ld-reactor/blob/master/vocabulary/index.ttl#maxNumberOfResourcesOnPage>	"20" .
+<http://ld-r.org/configurations/c1540478482>	<https://github.com/ali1k/ld-reactor/blob/master/vocabulary/index.ttl#maxNumberOfResourcesOnPage>	"20" .
+<http://ld-r.org/configurations/c1540478482>	<https://github.com/ali1k/ld-reactor/blob/master/vocabulary/index.ttl#dataset>	<http://demo.ld-r.org/d1540392312-deckRevisions> .
+<http://ld-r.org/configurations/c1540500886>	<https://github.com/ali1k/ld-reactor/blob/master/vocabulary/index.ttl#resourceFocusType>	<http://rdf.slidewiki.org/vocab/SlideRevision> .
+<http://ld-r.org/configurations/c1540500886>	<https://github.com/ali1k/ld-reactor/blob/master/vocabulary/index.ttl#dataset>	<http://demo.ld-r.org/d1540392312-slideRevisions> .
+<http://ld-r.org/configurations/c1540500886>	<http://www.w3.org/2000/01/rdf-schema#label>	"SlideWiki complete RDF dump Reactor Config -> SlideRevisions" .
+<http://ld-r.org/configurations/c1540478482>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<https://github.com/ali1k/ld-reactor/blob/master/vocabulary/index.ttl#ReactorConfig> .
+<http://ld-r.org/configurations/c1540478482>	<https://github.com/ali1k/ld-reactor/blob/master/vocabulary/index.ttl#resourceFocusType>	<http://rdf.slidewiki.org/vocab/DeckRevision> .
+
+<http://ld-r.org/configurations/c1540396832>	<https://github.com/ali1k/ld-reactor/blob/master/vocabulary/index.ttl#createdBy>	<http://demo.ld-r.org/user/1503847792t> .
+<http://ld-r.org/configurations/c1540396832>	<https://github.com/ali1k/ld-reactor/blob/master/vocabulary/index.ttl#maxNumberOfResourcesOnPage>	"20" .
+<http://ld-r.org/configurations/c1540453846>	<http://www.w3.org/2000/01/rdf-schema#label>	"SlideWiki complete RDF dump Reactor Config -> Decks" .
+<http://ld-r.org/configurations/c1540453846>	<https://github.com/ali1k/ld-reactor/blob/master/vocabulary/index.ttl#resourceFocusType>	<http://rdf.slidewiki.org/vocab/Deck> .
+<http://ld-r.org/configurations/c1540396832>	<https://github.com/ali1k/ld-reactor/blob/master/vocabulary/index.ttl#cloneOf>	<http://ld-r.org/configurations/rcf1540392313> .
+<http://ld-r.org/configurations/c1540396832>	<https://github.com/ali1k/ld-reactor/blob/master/vocabulary/index.ttl#resourceFocusType>	<http://rdf.slidewiki.org/vocab/User> .
+<http://ld-r.org/configurations/c1540453846>	<https://github.com/ali1k/ld-reactor/blob/master/vocabulary/index.ttl#scope>	"D" .
+<http://ld-r.org/configurations/c1540453846>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<https://github.com/ali1k/ld-reactor/blob/master/vocabulary/index.ttl#ReactorConfig> .
+<http://ld-r.org/configurations/c1540396832>	<https://github.com/ali1k/ld-reactor/blob/master/vocabulary/index.ttl#createdOn>	"2018-10-24T16:00:32.271Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://demo.ld-r.org/dataset/http%3A%2F%2Fld-r.org%2Fconfigurations/resource/http%3A%2F%2Fld-r.org%2Fconfigurations%2Fc1540453846>	<http://xmlns.com/foaf/0.1/primaryTopic>	<http://ld-r.org/configurations/c1540453846> .
+<http://ld-r.org/configurations/c1540453846>	<https://github.com/ali1k/ld-reactor/blob/master/vocabulary/index.ttl#createdOn>	"2018-10-25T07:50:45.921Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://ld-r.org/configurations/c1540396832>	<http://www.w3.org/2000/01/rdf-schema#label>	"SlideWiki complete RDF dump Reactor Config -> Users" .
+<http://ld-r.org/configurations/c1540396832>	<https://github.com/ali1k/ld-reactor/blob/master/vocabulary/index.ttl#resourceImageProperty>	<http://rdf.slidewiki.org/vocab/picture> .
+<http://ld-r.org/configurations/c1540453846>	<https://github.com/ali1k/ld-reactor/blob/master/vocabulary/index.ttl#createdBy>	<http://demo.ld-r.org/user/1503847792t> .
+<http://ld-r.org/configurations/c1540453846>	<https://github.com/ali1k/ld-reactor/blob/master/vocabulary/index.ttl#dataset>	<http://demo.ld-r.org/d1540392312-decks> .
+<http://ld-r.org/configurations/c1540396832>	<https://github.com/ali1k/ld-reactor/blob/master/vocabulary/index.ttl#dataset>	<http://demo.ld-r.org/d1540392312-users> .
+<http://ld-r.org/configurations/c1540396832>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<https://github.com/ali1k/ld-reactor/blob/master/vocabulary/index.ttl#ReactorConfig> .
+<http://ld-r.org/configurations/c1540396832>	<https://github.com/ali1k/ld-reactor/blob/master/vocabulary/index.ttl#datasetLabel>	"SlideWiki complete RDF dump (25-10-2018) -> Users" .
+<http://ld-r.org/configurations/c1540396832>	<https://github.com/ali1k/ld-reactor/blob/master/vocabulary/index.ttl#scope>	"D" .
+<http://ld-r.org/configurations/c1540453846>	<https://github.com/ali1k/ld-reactor/blob/master/vocabulary/index.ttl#maxNumberOfResourcesOnPage>	"20" .
+<http://ld-r.org/configurations/c1540453846>	<https://github.com/ali1k/ld-reactor/blob/master/vocabulary/index.ttl#cloneOf>	<http://ld-r.org/configurations/c1540396832> .
+<http://ld-r.org/configurations/c1540453846>	<https://github.com/ali1k/ld-reactor/blob/master/vocabulary/index.ttl#datasetLabel>	"SlideWiki complete RDF dump (25-10-2018) -> Decks" .
+
+<http://ld-r.org/fpc1540392312>	<https://github.com/ali1k/ld-reactor/blob/master/vocabulary/index.ttl#property>	<http://rdf.slidewiki.org/vocab/registeredMonth> .
+<http://ld-r.org/configurations/c1540397188>	<https://github.com/ali1k/ld-reactor/blob/master/vocabulary/index.ttl#list>	<http://rdf.slidewiki.org/vocab/surname> .
+<http://ld-r.org/fpc1540392312>	<https://github.com/ali1k/ld-reactor/blob/master/vocabulary/index.ttl#property>	<http://rdf.slidewiki.org/vocab/timestampDate> .
+<http://ld-r.org/configurations/c1540397188>	<https://github.com/ali1k/ld-reactor/blob/master/vocabulary/index.ttl#config>	<http://ld-r.org/configurations/c1540397372> .
+<http://ld-r.org/configurations/c1540471281>	<https://github.com/ali1k/ld-reactor/blob/master/vocabulary/index.ttl#cloneOf>	<http://ld-r.org/fpc1540392312> .
+<http://example.org/1540471342>	<https://github.com/ali1k/ld-reactor/blob/master/vocabulary/index.ttl#label>	"Decks" .
+<http://ld-r.org/configurations/c1540397188>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<https://github.com/ali1k/ld-reactor/blob/master/vocabulary/index.ttl#FacetsConfig> .
+<http://ld-r.org/configurations/c1540397372>	<https://github.com/ali1k/ld-reactor/blob/master/vocabulary/index.ttl#scope>	"P" .
+<http://ld-r.org/fpc1540392312>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<https://github.com/ali1k/ld-reactor/blob/master/vocabulary/index.ttl#FacetsPropertyConfig> .
+<http://ld-r.org/configurations/c1540397188>	<https://github.com/ali1k/ld-reactor/blob/master/vocabulary/index.ttl#cloneOf>	<http://ld-r.org/configurations/fcf1540392312> .
+<http://ld-r.org/configurations/fcf1540392312>	<https://github.com/ali1k/ld-reactor/blob/master/vocabulary/index.ttl#createdBy>	<http://demo.ld-r.org/user/1503847792t> .
+<http://ld-r.org/configurations/c1540397372>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<https://github.com/ali1k/ld-reactor/blob/master/vocabulary/index.ttl#ReactorConfig> .
+<http://ld-r.org/configurations/c1540397188>	<http://www.w3.org/2000/01/rdf-schema#label>	"SlideWiki complete RDF dump Facets Config ->Users" .
+<http://ld-r.org/configurations/c1540397372>	<https://github.com/ali1k/ld-reactor/blob/master/vocabulary/index.ttl#property>	<http://rdf.slidewiki.org/vocab/timestamp> .
+<http://ld-r.org/configurations/c1540397188>	<https://github.com/ali1k/ld-reactor/blob/master/vocabulary/index.ttl#config>	<http://ld-r.org/fpc1540392312> .
+<http://example.org/1540471546>	<https://github.com/ali1k/ld-reactor/blob/master/vocabulary/index.ttl#property>	<http://rdf.slidewiki.org/vocab/registeredYear> .
+<http://ld-r.org/configurations/c1540397188>	<https://github.com/ali1k/ld-reactor/blob/master/vocabulary/index.ttl#list>	<http://rdf.slidewiki.org/vocab/registeredDate> .
+<http://example.org/1540471546>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<https://github.com/ali1k/ld-reactor/blob/master/vocabulary/index.ttl#FacetsPropertyConfig> .
+<http://example.org/1540471342>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<https://github.com/ali1k/ld-reactor/blob/master/vocabulary/index.ttl#FacetsPropertyConfig> .
+<http://example.org/1540471342>	<https://github.com/ali1k/ld-reactor/blob/master/vocabulary/index.ttl#property>	<http://rdf.slidewiki.org/vocab/hasCreated> .
+<http://ld-r.org/configurations/fcf1540392312>	<https://github.com/ali1k/ld-reactor/blob/master/vocabulary/index.ttl#list>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type> .
+<http://ld-r.org/fpc1540392312>	<https://github.com/ali1k/ld-reactor/blob/master/vocabulary/index.ttl#property>	<http://rdf.slidewiki.org/vocab/timestampMonth> .
+<http://ld-r.org/fpc1540392312>	<http://www.w3.org/2000/01/rdf-schema#label>	"date category" .
+<http://ld-r.org/configurations/c1540397372>	<https://github.com/ali1k/ld-reactor/blob/master/vocabulary/index.ttl#shortenURI>	"0" .
+<http://example.org/1540471546>	<https://github.com/ali1k/ld-reactor/blob/master/vocabulary/index.ttl#objectBrowser>	"BarChartBrowser" .
+<http://ld-r.org/configurations/c1540397372>	<https://github.com/ali1k/ld-reactor/blob/master/vocabulary/index.ttl#createdOn>	"2018-10-24T16:09:31.849Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://example.org/1540471546>	<https://github.com/ali1k/ld-reactor/blob/master/vocabulary/index.ttl#property>	<http://rdf.slidewiki.org/vocab/timestampYear> .
+<http://ld-r.org/fpc1540392312>	<https://github.com/ali1k/ld-reactor/blob/master/vocabulary/index.ttl#property>	<http://rdf.slidewiki.org/vocab/timestamp> .
+<http://ld-r.org/configurations/c1540471281>	<https://github.com/ali1k/ld-reactor/blob/master/vocabulary/index.ttl#createdOn>	"2018-10-25T12:41:20.880Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://ld-r.org/configurations/c1540397188>	<https://github.com/ali1k/ld-reactor/blob/master/vocabulary/index.ttl#config>	<http://example.org/1540471342> .
+<http://ld-r.org/fpc1540392312>	<https://github.com/ali1k/ld-reactor/blob/master/vocabulary/index.ttl#property>	<http://rdf.slidewiki.org/vocab/timestampDay> .
+<http://ld-r.org/configurations/c1540397188>	<https://github.com/ali1k/ld-reactor/blob/master/vocabulary/index.ttl#list>	<http://rdf.slidewiki.org/vocab/forename> .
+<http://ld-r.org/configurations/c1540397188>	<https://github.com/ali1k/ld-reactor/blob/master/vocabulary/index.ttl#list>	<http://rdf.slidewiki.org/vocab/registeredDay> .
+<http://ld-r.org/configurations/c1540471281>	<https://github.com/ali1k/ld-reactor/blob/master/vocabulary/index.ttl#property>	<http://rdf.slidewiki.org/vocab/country> .
+<http://ld-r.org/configurations/c1540471281>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<https://github.com/ali1k/ld-reactor/blob/master/vocabulary/index.ttl#FacetsPropertyConfig> .
+<http://example.org/1540471342>	<https://github.com/ali1k/ld-reactor/blob/master/vocabulary/index.ttl#pivotDataset>	<http://demo.ld-r.org/d1540392312-decks> .
+<http://ld-r.org/configurations/c1540397188>	<https://github.com/ali1k/ld-reactor/blob/master/vocabulary/index.ttl#list>	<http://rdf.slidewiki.org/vocab/registeredYear> .
+<http://ld-r.org/configurations/c1540397188>	<https://github.com/ali1k/ld-reactor/blob/master/vocabulary/index.ttl#list>	<http://rdf.slidewiki.org/vocab/registeredMonth> .
+<http://ld-r.org/fpc1540392312>	<https://github.com/ali1k/ld-reactor/blob/master/vocabulary/index.ttl#property>	<http://rdf.slidewiki.org/vocab/registeredDay> .
+<http://ld-r.org/fpc1540392312>	<https://github.com/ali1k/ld-reactor/blob/master/vocabulary/index.ttl#property>	<http://rdf.slidewiki.org/vocab/registeredDate> .
+<http://ld-r.org/configurations/fcf1540392312>	<https://github.com/ali1k/ld-reactor/blob/master/vocabulary/index.ttl#dataset>	<http://demo.ld-r.org/d1540392312> .
+<http://ld-r.org/configurations/fcf1540392312>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<https://github.com/ali1k/ld-reactor/blob/master/vocabulary/index.ttl#FacetsConfig> .
+<http://ld-r.org/configurations/c1540397372>	<https://github.com/ali1k/ld-reactor/blob/master/vocabulary/index.ttl#property>	<http://rdf.slidewiki.org/vocab/lastUpdate> .
+<http://ld-r.org/configurations/c1540397372>	<https://github.com/ali1k/ld-reactor/blob/master/vocabulary/index.ttl#property>	<http://rdf.slidewiki.org/vocab/registered> .
+<http://ld-r.org/fpc1540392312>	<https://github.com/ali1k/ld-reactor/blob/master/vocabulary/index.ttl#category>	"Date/Time" .
+<http://ld-r.org/configurations/c1540397372>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<https://github.com/ali1k/ld-reactor/blob/master/vocabulary/index.ttl#FacetsPropertyConfig> .
+<http://example.org/1540471546>	<http://www.w3.org/2000/01/rdf-schema#label>	"config for registeredYear" .
+<http://ld-r.org/configurations/c1540397188>	<https://github.com/ali1k/ld-reactor/blob/master/vocabulary/index.ttl#list>	<http://rdf.slidewiki.org/vocab/registered> .
+<http://ld-r.org/configurations/c1540397372>	<http://www.w3.org/2000/01/rdf-schema#label>	"do not shorten date" .
+<http://ld-r.org/configurations/fcf1540392312>	<http://www.w3.org/2000/01/rdf-schema#label>	"SlideWiki complete RDF dump Facets Config" .
+<http://ld-r.org/configurations/c1540397188>	<https://github.com/ali1k/ld-reactor/blob/master/vocabulary/index.ttl#config>	<http://example.org/1540471546> .
+<http://example.org/1540471342>	<http://www.w3.org/2000/01/rdf-schema#label>	"created decks links" .
+<http://ld-r.org/configurations/fcf1540392312>	<https://github.com/ali1k/ld-reactor/blob/master/vocabulary/index.ttl#createdOn>	"2018-10-24T14:45:12.454Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://ld-r.org/configurations/c1540397188>	<https://github.com/ali1k/ld-reactor/blob/master/vocabulary/index.ttl#config>	<http://ld-r.org/configurations/c1540471281> .
+<http://ld-r.org/configurations/c1540397188>	<https://github.com/ali1k/ld-reactor/blob/master/vocabulary/index.ttl#list>	<http://rdf.slidewiki.org/vocab/country> .
+<http://ld-r.org/fpc1540392312>	<https://github.com/ali1k/ld-reactor/blob/master/vocabulary/index.ttl#property>	<http://rdf.slidewiki.org/vocab/registered> .
+<http://ld-r.org/configurations/c1540471281>	<http://www.w3.org/2000/01/rdf-schema#label>	"location category" .
+<http://ld-r.org/configurations/fcf1540392312>	<https://github.com/ali1k/ld-reactor/blob/master/vocabulary/index.ttl#config>	<http://ld-r.org/fpc1540392312> .
+<http://ld-r.org/configurations/c1540397372>	<https://github.com/ali1k/ld-reactor/blob/master/vocabulary/index.ttl#cloneOf>	<http://example.org/1503771498> .
+<http://demo.ld-r.org/dataset/http%3A%2F%2Fld-r.org%2Fconfigurations/resource/http%3A%2F%2Fld-r.org%2Fconfigurations%2Fc1540397188>	<http://xmlns.com/foaf/0.1/primaryTopic>	<http://ld-r.org/configurations/c1540397188> .
+<http://ld-r.org/configurations/c1540397188>	<https://github.com/ali1k/ld-reactor/blob/master/vocabulary/index.ttl#createdOn>	"2018-10-24T16:06:28.074Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://ld-r.org/configurations/c1540397188>	<https://github.com/ali1k/ld-reactor/blob/master/vocabulary/index.ttl#list>	<http://rdf.slidewiki.org/vocab/hasCreated> .
+<http://ld-r.org/fpc1540392312>	<https://github.com/ali1k/ld-reactor/blob/master/vocabulary/index.ttl#property>	<http://rdf.slidewiki.org/vocab/timestampYear> .
+<http://ld-r.org/configurations/c1540397188>	<https://github.com/ali1k/ld-reactor/blob/master/vocabulary/index.ttl#createdBy>	<http://demo.ld-r.org/user/1503847792t> .
+<http://ld-r.org/configurations/c1540471281>	<https://github.com/ali1k/ld-reactor/blob/master/vocabulary/index.ttl#category>	"Location" .
+<http://ld-r.org/fpc1540392312>	<https://github.com/ali1k/ld-reactor/blob/master/vocabulary/index.ttl#property>	<http://rdf.slidewiki.org/vocab/registeredYear> .
+<http://ld-r.org/configurations/c1540397188>	<https://github.com/ali1k/ld-reactor/blob/master/vocabulary/index.ttl#list>	<http://rdf.slidewiki.org/vocab/username> .
+<http://ld-r.org/configurations/c1540397188>	<https://github.com/ali1k/ld-reactor/blob/master/vocabulary/index.ttl#dataset>	<http://demo.ld-r.org/d1540392312-users> .
+
+<http://demo.ld-r.org/dataset/http%3A%2F%2Fld-r.org%2Fconfigurations/resource/http%3A%2F%2Fld-r.org%2Fconfigurations%2Fc1540396832>	<http://xmlns.com/foaf/0.1/primaryTopic>	<http://ld-r.org/configurations/c1540396832> .
+<http://ld-r.org/configurations/c1540396832>	<https://github.com/ali1k/ld-reactor/blob/master/vocabulary/index.ttl#createdBy>	<http://demo.ld-r.org/user/1503847792t> .
+<http://ld-r.org/configurations/rcf1540392313>	<https://github.com/ali1k/ld-reactor/blob/master/vocabulary/index.ttl#datasetLabel>	"SlideWiki complete RDF dump (25-10-2018)" .
+<http://ld-r.org/configurations/c1540396832>	<https://github.com/ali1k/ld-reactor/blob/master/vocabulary/index.ttl#maxNumberOfResourcesOnPage>	"20" .
+<http://ld-r.org/configurations/c1540396832>	<https://github.com/ali1k/ld-reactor/blob/master/vocabulary/index.ttl#cloneOf>	<http://ld-r.org/configurations/rcf1540392313> .
+<http://ld-r.org/configurations/rcf1540392313>	<https://github.com/ali1k/ld-reactor/blob/master/vocabulary/index.ttl#scope>	"D" .
+<http://ld-r.org/configurations/rcf1540392313>	<http://www.w3.org/2000/01/rdf-schema#label>	"SlideWiki complete RDF dump Reactor Config" .
+<http://ld-r.org/configurations/c1540396832>	<https://github.com/ali1k/ld-reactor/blob/master/vocabulary/index.ttl#resourceFocusType>	<http://rdf.slidewiki.org/vocab/User> .
+<http://ld-r.org/configurations/rcf1540392313>	<http://purl.org/dc/terms/creator>	<http://demo.ld-r.org/user/1503847792t> .
+<http://ld-r.org/configurations/c1540396832>	<https://github.com/ali1k/ld-reactor/blob/master/vocabulary/index.ttl#createdOn>	"2018-10-24T16:00:32.271Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://ld-r.org/configurations/c1540396832>	<http://www.w3.org/2000/01/rdf-schema#label>	"SlideWiki complete RDF dump Reactor Config -> Users" .
+<http://ld-r.org/configurations/c1540396832>	<https://github.com/ali1k/ld-reactor/blob/master/vocabulary/index.ttl#resourceImageProperty>	<http://rdf.slidewiki.org/vocab/picture> .
+<http://ld-r.org/configurations/c1540396832>	<https://github.com/ali1k/ld-reactor/blob/master/vocabulary/index.ttl#dataset>	<http://demo.ld-r.org/d1540392312-users> .
+<http://ld-r.org/configurations/rcf1540392313>	<https://github.com/ali1k/ld-reactor/blob/master/vocabulary/index.ttl#createdBy>	<http://demo.ld-r.org/user/1503847792t> .
+<http://ld-r.org/configurations/rcf1540392313>	<https://github.com/ali1k/ld-reactor/blob/master/vocabulary/index.ttl#dataset>	<http://demo.ld-r.org/d1540392312> .
+<http://ld-r.org/configurations/c1540396832>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<https://github.com/ali1k/ld-reactor/blob/master/vocabulary/index.ttl#ReactorConfig> .
+<http://ld-r.org/configurations/c1540396832>	<https://github.com/ali1k/ld-reactor/blob/master/vocabulary/index.ttl#datasetLabel>	"SlideWiki complete RDF dump (25-10-2018) -> Users" .
+<http://ld-r.org/configurations/c1540396832>	<https://github.com/ali1k/ld-reactor/blob/master/vocabulary/index.ttl#scope>	"D" .
+<http://ld-r.org/configurations/rcf1540392313>	<https://github.com/ali1k/ld-reactor/blob/master/vocabulary/index.ttl#maxNumberOfResourcesOnPage>	"20" .
+<http://ld-r.org/configurations/rcf1540392313>	<https://github.com/ali1k/ld-reactor/blob/master/vocabulary/index.ttl#createdOn>	"2018-10-24T14:45:12.559Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://ld-r.org/configurations/rcf1540392313>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<https://github.com/ali1k/ld-reactor/blob/master/vocabulary/index.ttl#ReactorConfig> .
+
+<http://ld-r.org/configurations/c1540500424>	<https://github.com/ali1k/ld-reactor/blob/master/vocabulary/index.ttl#resourceFocusType>	<http://rdf.slidewiki.org/vocab/Slide> .
+<http://ld-r.org/configurations/c1540500424>	<https://github.com/ali1k/ld-reactor/blob/master/vocabulary/index.ttl#maxNumberOfResourcesOnPage>	"20" .
+<http://ld-r.org/configurations/c1540453846>	<http://www.w3.org/2000/01/rdf-schema#label>	"SlideWiki complete RDF dump Reactor Config -> Decks" .
+<http://demo.ld-r.org/dataset/http%3A%2F%2Fld-r.org%2Fconfigurations/resource/http%3A%2F%2Fld-r.org%2Fconfigurations%2Fc1540500424>	<http://xmlns.com/foaf/0.1/primaryTopic>	<http://ld-r.org/configurations/c1540500424> .
+<http://ld-r.org/configurations/c1540453846>	<https://github.com/ali1k/ld-reactor/blob/master/vocabulary/index.ttl#resourceFocusType>	<http://rdf.slidewiki.org/vocab/Deck> .
+<http://ld-r.org/configurations/c1540500424>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<https://github.com/ali1k/ld-reactor/blob/master/vocabulary/index.ttl#ReactorConfig> .
+<http://ld-r.org/configurations/c1540453846>	<https://github.com/ali1k/ld-reactor/blob/master/vocabulary/index.ttl#scope>	"D" .
+<http://ld-r.org/configurations/c1540500424>	<https://github.com/ali1k/ld-reactor/blob/master/vocabulary/index.ttl#scope>	"D" .
+<http://ld-r.org/configurations/c1540453846>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<https://github.com/ali1k/ld-reactor/blob/master/vocabulary/index.ttl#ReactorConfig> .
+<http://ld-r.org/configurations/c1540453846>	<https://github.com/ali1k/ld-reactor/blob/master/vocabulary/index.ttl#createdOn>	"2018-10-25T07:50:45.921Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://ld-r.org/configurations/c1540453846>	<https://github.com/ali1k/ld-reactor/blob/master/vocabulary/index.ttl#dataset>	<http://demo.ld-r.org/d1540392312-decks> .
+<http://ld-r.org/configurations/c1540453846>	<https://github.com/ali1k/ld-reactor/blob/master/vocabulary/index.ttl#createdBy>	<http://demo.ld-r.org/user/1503847792t> .
+<http://ld-r.org/configurations/c1540500424>	<https://github.com/ali1k/ld-reactor/blob/master/vocabulary/index.ttl#cloneOf>	<http://ld-r.org/configurations/c1540453846> .
+<http://ld-r.org/configurations/c1540500424>	<https://github.com/ali1k/ld-reactor/blob/master/vocabulary/index.ttl#dataset>	<http://demo.ld-r.org/d1540392312-slides> .
+<http://ld-r.org/configurations/c1540500424>	<http://www.w3.org/2000/01/rdf-schema#label>	"SlideWiki complete RDF dump Reactor Config -> Slides" .
+<http://ld-r.org/configurations/c1540453846>	<https://github.com/ali1k/ld-reactor/blob/master/vocabulary/index.ttl#maxNumberOfResourcesOnPage>	"20" .
+<http://ld-r.org/configurations/c1540500424>	<https://github.com/ali1k/ld-reactor/blob/master/vocabulary/index.ttl#createdOn>	"2018-10-25T20:47:03.938Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://ld-r.org/configurations/c1540500424>	<https://github.com/ali1k/ld-reactor/blob/master/vocabulary/index.ttl#datasetLabel>	"SlideWiki complete RDF dump (25-10-2018) -> Slides" .
+<http://ld-r.org/configurations/c1540453846>	<https://github.com/ali1k/ld-reactor/blob/master/vocabulary/index.ttl#cloneOf>	<http://ld-r.org/configurations/c1540396832> .
+<http://ld-r.org/configurations/c1540453846>	<https://github.com/ali1k/ld-reactor/blob/master/vocabulary/index.ttl#datasetLabel>	"SlideWiki complete RDF dump (25-10-2018) -> Decks" .
+
+<http://demo.ld-r.org/dataset/http%3A%2F%2Fld-r.org%2Fconfigurations/resource/http%3A%2F%2Fld-r.org%2Fconfigurations%2Fc1540486012>	<http://xmlns.com/foaf/0.1/primaryTopic>	<http://ld-r.org/configurations/c1540486012> .
+<http://ld-r.org/configurations/c1540479818>	<http://www.w3.org/2000/01/rdf-schema#label>	"SlideWiki complete RDF dump Reactor Config -> User Groups" .
+<http://ld-r.org/configurations/c1540479818>	<https://github.com/ali1k/ld-reactor/blob/master/vocabulary/index.ttl#scope>	"D" .
+<http://ld-r.org/configurations/c1540479818>	<https://github.com/ali1k/ld-reactor/blob/master/vocabulary/index.ttl#dataset>	<http://demo.ld-r.org/d1540392312-usergroups> .
+<http://ld-r.org/configurations/c1540486012>	<https://github.com/ali1k/ld-reactor/blob/master/vocabulary/index.ttl#cloneOf>	<http://ld-r.org/configurations/c1540479818> .
+<http://ld-r.org/configurations/c1540486012>	<https://github.com/ali1k/ld-reactor/blob/master/vocabulary/index.ttl#maxNumberOfResourcesOnPage>	"20" .
+<http://ld-r.org/configurations/c1540486012>	<https://github.com/ali1k/ld-reactor/blob/master/vocabulary/index.ttl#resourceFocusType>	<http://rdf.slidewiki.org/vocab/Tag> .
+<http://ld-r.org/configurations/c1540486012>	<https://github.com/ali1k/ld-reactor/blob/master/vocabulary/index.ttl#createdOn>	"2018-10-25T16:46:52.244Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://ld-r.org/configurations/c1540479818>	<https://github.com/ali1k/ld-reactor/blob/master/vocabulary/index.ttl#maxNumberOfResourcesOnPage>	"20" .
+<http://ld-r.org/configurations/c1540486012>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<https://github.com/ali1k/ld-reactor/blob/master/vocabulary/index.ttl#ReactorConfig> .
+<http://ld-r.org/configurations/c1540479818>	<https://github.com/ali1k/ld-reactor/blob/master/vocabulary/index.ttl#resourceFocusType>	<http://rdf.slidewiki.org/vocab/UserGroup> .
+<http://ld-r.org/configurations/c1540479818>	<https://github.com/ali1k/ld-reactor/blob/master/vocabulary/index.ttl#datasetLabel>	"SlideWiki complete RDF dump (25-10-2018) -> User Groups" .
+<http://ld-r.org/configurations/c1540486012>	<https://github.com/ali1k/ld-reactor/blob/master/vocabulary/index.ttl#datasetLabel>	"SlideWiki complete RDF dump (25-10-2018) -> Tags" .
+<http://ld-r.org/configurations/c1540486012>	<https://github.com/ali1k/ld-reactor/blob/master/vocabulary/index.ttl#scope>	"D" .
+<http://ld-r.org/configurations/c1540479818>	<https://github.com/ali1k/ld-reactor/blob/master/vocabulary/index.ttl#cloneOf>	<http://ld-r.org/configurations/c1540396832> .
+<http://ld-r.org/configurations/c1540479818>	<https://github.com/ali1k/ld-reactor/blob/master/vocabulary/index.ttl#createdOn>	"2018-10-25T15:03:37.559Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://ld-r.org/configurations/c1540479818>	<https://github.com/ali1k/ld-reactor/blob/master/vocabulary/index.ttl#resourceLabelProperty>	<http://rdf.slidewiki.org/vocab/name> .
+<http://ld-r.org/configurations/c1540486012>	<http://www.w3.org/2000/01/rdf-schema#label>	"SlideWiki complete RDF dump Reactor Config -> Tags" .
+<http://ld-r.org/configurations/c1540486012>	<https://github.com/ali1k/ld-reactor/blob/master/vocabulary/index.ttl#resourceLabelProperty>	<http://rdf.slidewiki.org/vocab/defaultName> .
+<http://ld-r.org/configurations/c1540479818>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<https://github.com/ali1k/ld-reactor/blob/master/vocabulary/index.ttl#ReactorConfig> .
+<http://ld-r.org/configurations/c1540486012>	<https://github.com/ali1k/ld-reactor/blob/master/vocabulary/index.ttl#dataset>	<http://demo.ld-r.org/d1540392312-tags> .
+
+<http://ld-r.org/configurations/c1540396832>	<https://github.com/ali1k/ld-reactor/blob/master/vocabulary/index.ttl#createdBy>	<http://demo.ld-r.org/user/1503847792t> .
+<http://ld-r.org/configurations/c1540478482>	<https://github.com/ali1k/ld-reactor/blob/master/vocabulary/index.ttl#scope>	"D" .
+<http://ld-r.org/configurations/c1540396832>	<https://github.com/ali1k/ld-reactor/blob/master/vocabulary/index.ttl#maxNumberOfResourcesOnPage>	"20" .
+<http://ld-r.org/configurations/c1540396832>	<https://github.com/ali1k/ld-reactor/blob/master/vocabulary/index.ttl#cloneOf>	<http://ld-r.org/configurations/rcf1540392313> .
+<http://demo.ld-r.org/dataset/http%3A%2F%2Fld-r.org%2Fconfigurations/resource/http%3A%2F%2Fld-r.org%2Fconfigurations%2Fc1540478482>	<http://xmlns.com/foaf/0.1/primaryTopic>	<http://ld-r.org/configurations/c1540478482> .
+<http://ld-r.org/configurations/c1540478482>	<http://www.w3.org/2000/01/rdf-schema#label>	"SlideWiki complete RDF dump Reactor Config -> DeckRevisions" .
+<http://ld-r.org/configurations/c1540396832>	<https://github.com/ali1k/ld-reactor/blob/master/vocabulary/index.ttl#resourceFocusType>	<http://rdf.slidewiki.org/vocab/User> .
+<http://ld-r.org/configurations/c1540478482>	<https://github.com/ali1k/ld-reactor/blob/master/vocabulary/index.ttl#createdOn>	"2018-10-25T14:41:21.999Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://ld-r.org/configurations/c1540396832>	<https://github.com/ali1k/ld-reactor/blob/master/vocabulary/index.ttl#createdOn>	"2018-10-24T16:00:32.271Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://ld-r.org/configurations/c1540396832>	<http://www.w3.org/2000/01/rdf-schema#label>	"SlideWiki complete RDF dump Reactor Config -> Users" .
+<http://ld-r.org/configurations/c1540396832>	<https://github.com/ali1k/ld-reactor/blob/master/vocabulary/index.ttl#resourceImageProperty>	<http://rdf.slidewiki.org/vocab/picture> .
+<http://ld-r.org/configurations/c1540396832>	<https://github.com/ali1k/ld-reactor/blob/master/vocabulary/index.ttl#dataset>	<http://demo.ld-r.org/d1540392312-users> .
+<http://ld-r.org/configurations/c1540478482>	<https://github.com/ali1k/ld-reactor/blob/master/vocabulary/index.ttl#cloneOf>	<http://ld-r.org/configurations/c1540396832> .
+<http://ld-r.org/configurations/c1540396832>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<https://github.com/ali1k/ld-reactor/blob/master/vocabulary/index.ttl#ReactorConfig> .
+<http://ld-r.org/configurations/c1540396832>	<https://github.com/ali1k/ld-reactor/blob/master/vocabulary/index.ttl#datasetLabel>	"SlideWiki complete RDF dump (25-10-2018) -> Users" .
+<http://ld-r.org/configurations/c1540396832>	<https://github.com/ali1k/ld-reactor/blob/master/vocabulary/index.ttl#scope>	"D" .
+<http://ld-r.org/configurations/c1540478482>	<https://github.com/ali1k/ld-reactor/blob/master/vocabulary/index.ttl#datasetLabel>	"SlideWiki complete RDF dump (25-10-2018) -> DeckRevisions" .
+<http://ld-r.org/configurations/c1540478482>	<https://github.com/ali1k/ld-reactor/blob/master/vocabulary/index.ttl#maxNumberOfResourcesOnPage>	"20" .
+<http://ld-r.org/configurations/c1540478482>	<https://github.com/ali1k/ld-reactor/blob/master/vocabulary/index.ttl#dataset>	<http://demo.ld-r.org/d1540392312-deckRevisions> .
+<http://ld-r.org/configurations/c1540478482>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<https://github.com/ali1k/ld-reactor/blob/master/vocabulary/index.ttl#ReactorConfig> .
+<http://ld-r.org/configurations/c1540478482>	<https://github.com/ali1k/ld-reactor/blob/master/vocabulary/index.ttl#resourceFocusType>	<http://rdf.slidewiki.org/vocab/DeckRevision> .
+
+<http://ld-r.org/configurations/scf1540392313>	<https://github.com/ali1k/ld-reactor/blob/master/vocabulary/index.ttl#dataset>	<http://demo.ld-r.org/d1540392312-slideRevisions> .
+<http://ld-r.org/configurations/scf1540392313>	<https://github.com/ali1k/ld-reactor/blob/master/vocabulary/index.ttl#dataset>	<http://demo.ld-r.org/d1540392312-decks> .
+<http://ld-r.org/configurations/scf1540392313>	<https://github.com/ali1k/ld-reactor/blob/master/vocabulary/index.ttl#dataset>	<http://demo.ld-r.org/d1540392312-deckRevisions> .
+<http://ld-r.org/configurations/scf1540392313>	<https://github.com/ali1k/ld-reactor/blob/master/vocabulary/index.ttl#dataset>	<http://demo.ld-r.org/d1540392312-tags> .
+<http://ld-r.org/configurations/scf1540392313>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<https://github.com/ali1k/ld-reactor/blob/master/vocabulary/index.ttl#ServerConfig> .
+<http://ld-r.org/configurations/scf1540392313>	<http://www.w3.org/2000/01/rdf-schema#label>	"SlideWiki complete RDF dump Server Config" .
+<http://ld-r.org/configurations/scf1540392313>	<https://github.com/ali1k/ld-reactor/blob/master/vocabulary/index.ttl#dataset>	<http://demo.ld-r.org/d1540392312-users> .
+<http://demo.ld-r.org/dataset/http%3A%2F%2Fld-r.org%2Fconfigurations/resource/http%3A%2F%2Fld-r.org%2Fconfigurations%2Fscf1540392313>	<http://xmlns.com/foaf/0.1/primaryTopic>	<http://ld-r.org/configurations/scf1540392313> .
+<http://ld-r.org/configurations/scf1540392313>	<https://github.com/ali1k/ld-reactor/blob/master/vocabulary/index.ttl#dataset>	<http://demo.ld-r.org/d1540392312-questions> .
+<http://ld-r.org/configurations/scf1540392313>	<https://github.com/ali1k/ld-reactor/blob/master/vocabulary/index.ttl#host>	"cloud.risis.eu" .
+<http://ld-r.org/configurations/scf1540392313>	<https://github.com/ali1k/ld-reactor/blob/master/vocabulary/index.ttl#protocol>	"http" .
+<http://ld-r.org/configurations/scf1540392313>	<https://github.com/ali1k/ld-reactor/blob/master/vocabulary/index.ttl#path>	"/sparql/" .
+<http://ld-r.org/configurations/scf1540392313>	<https://github.com/ali1k/ld-reactor/blob/master/vocabulary/index.ttl#graphName>	"https://slidewiki.org" .
+<http://ld-r.org/configurations/scf1540392313>	<https://github.com/ali1k/ld-reactor/blob/master/vocabulary/index.ttl#dataset>	<http://demo.ld-r.org/d1540392312-slides> .
+<http://ld-r.org/configurations/scf1540392313>	<https://github.com/ali1k/ld-reactor/blob/master/vocabulary/index.ttl#dataset>	<http://demo.ld-r.org/d1540392312> .
+<http://ld-r.org/configurations/scf1540392313>	<https://github.com/ali1k/ld-reactor/blob/master/vocabulary/index.ttl#dataset>	<http://demo.ld-r.org/d1540392312-usergroups> .
+<http://ld-r.org/configurations/scf1540392313>	<https://github.com/ali1k/ld-reactor/blob/master/vocabulary/index.ttl#createdOn>	"2018-10-24T14:45:12.629Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://ld-r.org/configurations/scf1540392313>	<https://github.com/ali1k/ld-reactor/blob/master/vocabulary/index.ttl#endpointType>	"virtuoso" .
+<http://ld-r.org/configurations/scf1540392313>	<https://github.com/ali1k/ld-reactor/blob/master/vocabulary/index.ttl#port>	"8890" .
